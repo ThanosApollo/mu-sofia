@@ -1,0 +1,349 @@
+#+title: Anatomy
+#+author: Thanos Apo11o
+
+** Recommended Resources
++ [[https://www.kenhub.com/][Kenhub]]
+
+* BONES AND JOINTS
++ The basic part of the osteology is included in the practical exam. When describing bones, students have got to show knowledge on the attachment sites of muscles.
++ For the joints, knowledge on the joint structures and mechanics, as well as on the radiographic anatomy of the bones and joints is
+required.
+** 1. The bone as an organ - structure, development and growing. Biological features.
+** 2. Bones of the vertebral column.
+*** General
+**** Main regions
++ Cervical Spine (7)
+  + C1 : Atlas
+  + C2 : Axis
++ Thoracic Spine (12)
++ Lumbar Spine (5)
++ Sacrum (5)
++ Coccyx (3-5)
+**** Curvatures
++ Cervical lordosis (C2-T2)
++ Thoracic kyphosis (T2-T12)
++ Lumbar lordosis (T12 - sacrovertebral angle)
++ Sacral kyphosis (sacrovertebral articulation - coccyx)
+**** Movements
++ Flexion, stabilization and support of the trunk
++ protection of the spinal cord
+**** Key components of a typical vertebra
++ Main:
+  + Vertebral body
+    + The large cylindrical part located anteriorly that gives strength to the spine.
+    + They are involved in weight bearing.
+    + Their size increases as one descends down the vertebral column.
+    + Adjacent vertebral bodies are separated by intervertebral discs.
+  + Vertebral arch
+  + Vertebral foramen
++ Bony landmarks of the vertebral arch
+  + Pedicles
+  + Laminae
+  + Vertebral processes : Spinous process, transverse processes, superior articular processes (with superior articular facets) and inferior articular processes (with inferior articular facets)
+
+** 3. Ribs and sternum.
+** 4. Clavicula, scapula and humerus.
+** 5. Radius and ulna.
+** 6. Bones of hand.
+** 7. Bones of pelvis: sacrum and hip bone..
+** 8. Femur, tibia and fibula.
+** 9. Bones of foot.
+** 10. Calvaria (cranial roof). Fontanelles.
+** 11. Cranial base, external surface. Mandibule.
+** 12. Cranial base, internal surface.
+** 13. Lateral surface of the cranium. Temporal fossa, infratemporal fossa, and pterygopalatine fossa.
+** 14. Orbit.
+** 15. Bony nasal cavity.
+** 16. Joints system. Bony joints: synarthrosis, cartilaginous joints, synostosis.
+** 17. Synovial joints - structure and mechanics.
+** 18. Vertebral column. Vertebral joints: syndesmoses, synchondroses and synovial joints.Configuration and
+** mechanics of the vertebral column.
+** 19. Thoracic joints. The thorax as a whole.
+** 20. Temporomandibular joint.
+** 21. Joints of pectoral girdle.
+** 22. Glenohumeral or shoulder joint.
+** 23. Elbow joint. Junctions of forearm bones.
+** 24. Wrist joint. Carpal joints.
+** 25. Carpometacarpal joints. Metacarpophalangeal joints. Interphalangeal joints of hand.
+** 26. Joints of pelvic girdle. Shape and size of the pelvis.
+** 27. Hip joint.
+** 28. Knee joint.
+** 29. Junctions of the leg bones. Ankle joint.
+** 30. Subtalar or talocalcaneal joint. Transverse tarsal joint.
+** 31. Cuneonavicular and intercuneiform joints. Metatarsophalangeal and interphalangeal joints.
+** 32. Structure of muscles (body). Structure of fasciae, tendons, sesamoid bones, synovial sheaths and
+** bursae. Mechanics of muscles.
+
+* MUSCLES
++ For the muscles, knowledge on the muscle groups as well as on the attachment sites,
+the nerve supply and the functions of the individual muscles are required.
+
+** 33. Facial muscles.
+** 34. Masticatory muscles.
+** 35. Suboccipital muscles.
+** 36. Superficial muscles of the back.
+** 37. Deep muscles of the back. Thoracolumbar fascia.
+** 38. Muscles of neck. Cervical fascia.
+** 39. Muscles of thorax.
+** 40. Diaphragm.
+** 41. Muscles of abdomen.
+** 42. Inguinal canal.
+** 43. Muscles of shoulder girdle.
+** 44. Muscles of arm. Brachial fascia.
+** 45. Muscles of forearm - anterior and lateral group.
+** 46. Muscles of the forearm - posterior group. Antebrachial fascia.
+** 47. Muscles and synovial sheaths of hand.
+** 48. Muscles of pelvis.
+** 49. Muscles of thigh. Fascia lata.
+** 50. Muscles of leg - anterior and lateral group.
+** 51. Muscles of leg - posterior group. Deep fascia of leg or fascia cruris.
+** 52. Muscles, fasciae and synovial sheaths of foot. Configuration, mechanics and deformations of the foot.
+
+* INTERNAL ORGANS
++ For the internal organs, knowledge is required on their:
+  + ontogenesis (including the embryogenesis)
+  + topography
+  + macro- and microscopic structure
+  + histology and physiology
+  + blood supply
+  + nerve supply
+  + lymphatic drainage
+  + anomalies
+** 53. Alimentary system - overview and development.
+** 54. Oral cavity.
+** 55. Tongue.
+** 56. Teeth - permanent and deciduous. Development and histological structure of the tooth.
+** 57. Major salivary glands – parotid gland, submandibular gland, sublingual gland.
+** 58. Isthmus of fauces. Tonsils.
+** 59. Pharynx.
+** 60. Oesophagus.
+** 61. Stomach - topography, blood supply, lymphatic drainage, nerve supply.
+** 62. Stomach - structure.
+** 63. Small intestine – duodenum..
+** 64. Small intestine - jejunum and ileum.
+** 65. Large intestine - caecum, appendix and colon.
+** 66. Large intestine - rectum.
+** 67. Pancreas.
+** 68. Liver - shape, topography, blood supply, lymphatic drainage, nerve supply.
+** 69. Structure of liver.
+** 70. Bile ducts. Gallbladder.
+** 71. Peritoneum.
+** 72. Respiratory system - overview and development.
+** 73. Nose. Nasal cavity. Paranasal sinuses.
+** 74. Larynx.
+** 75. Trachea. Bronchi.
+** 76. Lung - shape, topography, blood supply, lymphatic drainage, nerve supply.
+** 77. Structure of lung.
+** 78. Pleura. Pleural cavity.
+** 79. Urinary system - overview and development.
+** 80. Kidney - shape, topography, blood supply, lymphatic drainage, nerve supply.
+** 81. Structure of kidney.
+** 82. Renal pelvis and ureter.
+** 83. Urinary bladder.
+** 84. Male and female urethra.
+** 85. Male and female genetal systems - overview and development.
+** 86. Testis.
+** 87. Epididymis. Ductus deferens. Funiculus spermaticus (spermatic cord).
+** 88. Seminal vesicles. Prostate. Bulbo-urethral glands.
+** 89. Penis. Scrotum.
+** 90. Ovary.
+** 91. Uterine tube.
+** 92. Uterus.
+** 93. Vagina. Female external genitalia.
+** 94. Perineum - muscles and fasciae.
+** 95. Breast.
+* ENDOCRINE GLANDS
++ For each endocrine gland knowledge on the
+  + development topography
+  + macro- and microscopic structure
+  + blood supply and histophysiology is required.
+** 96. Pituitary gland or hypophysis.
+** 97. Pineal gland or epiphysis.
+** 98. Thyroid gland.
+** 99. Parathyroid glands.
+** 100. Suprarenal glands. Paraganglia.
+** 101. Endocrine pancreas. Gastro-entero-pancreatic endocrine system.
+* CARDIOVASCULAR SYSTEM
++ For the blood vessels, knowledge on the
+  + Location, branches (tributaries) and the essential collateral pathways, and for the lymphatic system - on the regional lymph nodes and the lymphatic drainage, are required.
+** 102. Heart (cor). Development, topography and external relief.
+** 103. Heart chambers. Cardiac valves.
+** 104. Structure of the cardiac wall. Fibrous skeleton of the heart.
+** 105. Pericardium. Pericardial cavity.
+** 106. Blood supply of the heart - arteries and veins.
+** 107. Conducting system of the heart.
+** 108. Features of the arterial and venous part of the vascular system.
+** 109. General structure of the wall of blood vessels. Arteries, veins and capillaries.
+** 110. Vessels and functional properties of the pulmonary circulation.
+** 111. Aorta - overview.
+** 112. External carotid artery.
+** 113. Internal carotid artery.
+** 114. Ophthalmic artery.
+** 115. Maxillary artery.
+** 116. Subclavian artery.
+** 117. Axillary and brachial arteries.
+** 118. Radial and ulnar arteries.
+** 119. Aortic arch. Thoracic aorta.
+** 120. Abdominal aorta - paired branches.
+** 121. Abdominal aorta - unpaired branches.
+** 122. Common iliac artery. Internal iliac artery.
+** 123. External iliac artery. Femoral artery.
+** 124. Popliteal artery. Arteries of leg and foot.
+** 125. Superior vena cava. Veins of head and neck.
+** 126. Veins of the thoracic wall, the upper part of the abdominal wall and the vertebral column.
+** 127. Inferior vena cava. Veins of the pelvis and the lower part of the abdominal wall.
+** 128. Anastomoses between the systems of the both venae cavae (cava-caval anastomoses).
+** 129. Superficial and deep veins of limbs.
+** 130. System of the hepatic portal vein. Porto-caval anastomoses.
+** 131. Fetal blood circulation. Changes in the vascular system at birth.
+** 132. Lymphoid system. Overview. Structure of the wall of the lymphatic vessels. Main lymphatic vessels.
+** 133. Lymph node - structure.
+** 134. Tonsils - structure.
+** 135. Thymus.
+** 136. Spleen.
+** 137. Bone marrow.
+** 138. Lymphatic vessels and regional lymph nodes of head and neck.
+** 139. Lymphatic vessels and regional lymph nodes of limbs.
+** 140. Thoracic lymphatic vessels and lymph nodes.
+** 141. Abdominal lymphatic vessels and lymph nodes.
+** 142. Pelvic lymphatic vessels and lymph nodes.
+* NERVOUS SYSTEM AND SENSE ORGANS
++ For the parts of the central nervous system, knowledge on
+  + their macro- and microscopic structure,
+  + and for the peripheral nerves - on their nuclei, ganglia, course and branches, is required.
+** 143. General principles of organization of the nervous system.
+** 144. Development of the nervous system.
+** 145. General principles of the histophysiology of the nervous system.
+** 146. Spinal cord - shape, topography, blood supply.
+** 147. Gray columns of spinal cord. Spinal laminae.
+** 148. White substance of spinal cord. Roots. Propriospinal tracts.
+** 149. Ascending tracts in the spinal cord.
+** 150. Descending tracts in the spinal cord.
+** 151. Meninges and blood supply of the spinal cord.
+** 152. Encephalon (Brain) - overview and development.
+** 153. Medulla oblongata.
+** 154. Pons.
+** 155. Cerebellum – body of cerebellum and internal features.
+** 156. Afferent and efferent cerebellar connections.
+** 157. Fourth ventricle.
+** 158. Mesencephalon (Midbrain).
+** 159. Diencephalon (Interbrain): thalamus, epithalamus, subthalamus.
+** 160. Diencephalon - hypothalamus.
+** 161. Third ventricle.
+** 162. Reticular formation.
+** 163. Telencephalon (Cerebrum, Endbrain) - sulci and gyri.
+** 164. Structure of the cerebral cortex. Cytoarchitectonics.
+** 165. Cortical areas. Localization of the functions in the cerebral cortex.
+** 166. Myeloarchitectonics of the telencephalon. Corpus callosum. Commissurae. Capsula interna.
+** 167. Basal nuclei of the telencephalon.
+** 168. Olfactory bulb and other olfactory structures.
+** 169. Limbic system.
+** 170. Lateral ventricle.
+** 171. Cranial dura mater. Dural venous sinuses.
+** 172. Arachnoid mater and pia mater. Cerebrospinal fluid circulation.
+** 173. Blood supply of the brain - arteries and veins.
+** 174. Exteroceptive system for mechanoreception.
+** 175. System for pain and temperature.
+** 176. System for proprioreception.
+** 177. Motor system. Pyramidal, oculomotor and corticonuclear systems.
+** 178. Motor system. Extrapyramidal system.
+** 179. Limbic functional system.
+** 180. General principles of organization of the peripheral nervous system. Ontogenesis.
+** 181. Somatic and autonomic (vegetative) nerves. Regional and segmental nerve supply of the skin and
+** muscles.
+** 182. Spinal nerves - formation. Spinal ganglia. Reflex arch.
+** 183. Posterior or dorsal rami of spinal nerves.
+** 184. Cervical plexus.
+** 185. Brachial plexus - formation. Branches of the supraclavicular part.
+** 186. Median nerve.
+** 187. Ulnar nerve.
+** 188. Radial nerve.
+** 189. Axillary nerve. Musculocutaneous nerve.
+** 190. Intercostal nerves.
+** 191. Lumbar plexus.
+** 192. Sacral plexus - formation and branches.
+** 193. Ischiatic nerve.
+** 194. Oculomotor, trochlear and abducent nerves.
+** 195. Trigeminal nerve (V) - nuclei, branches and regions of nerve supply.
+** 196. Ophthalmic nerve (V1).
+** 197. Maxillary nerve (V2).
+** 198. Mandibular nerve (V3).
+** 199. Facial nerve (VII). Intermediate nerve.
+** 200. Cochlear nerve of the vestibulocochlear nerve (VIII). Auditory sensory system.
+** 201. Vestibular nerve of the vestibulocochlear nerve. Vestibular sensory system.
+** 202. Glossopharyngeal nerve (IX).
+** 203. Vagus nerve (X).
+** 204. Accessorius nerve (XI). Hypoglossal nerve (XII).
+** 205. General principles of organization of the autonomic (vegetative) nervous system. Autonomic reflex
+** arch.
+** 206. Parasympathetic part of the autonomic (vegetative) nervous system.
+** 207. Sympathetic part of the autonomic (vegetative) nervous system. Overview.
+** 208. Cranial and cervical part of the sympathetic part of the autonomic nervous system..
+** 209. Thoracic, lumbar and pelvic part of the sympathetic part of the autonomic nervous
+** system..
+** 210. Sensory receptors – free nerve endings and encapsulated endings.
+** 211. Olfactory organ. Olfactory sensory system.
+** 212. Gustatory organ . Gustatory sensory system.
+** 213. Eye - overview and development.
+** 214. Fibrous layer of eyeball.
+** 215. Vascular layer of eyeball.
+** 216. Retina. Optic nerve. Visual sensory system.
+** 217. Chambers of eyeball.
+** 218. Extra-ocular muscles. Eyelids.
+** 219. Blood supply of the eye.
+** 220. Lacrimal apparatus. Conjunctiva.
+** 221. External ear. Tympanic membrane.
+** 222. Middle ear - tympanic cavity.
+** 223. Auditory ossicles. Auditory (pharyngotympanic) tube.
+** 224. Internal ear - bony labyrinth.
+** 225. Internal ear - membranous labyrinth. Vestibular labyrinth.
+** 226. Internal ear – cochlear membranous labyrinth. Cochlear duct. Spiral organ (organ of Corti).
+** 227. Skin. Epidermis and dermis.
+** 228. Skin glands. Hairs and nails.
+* TOPOGRAPHIC ANATOMY
+** 229. Fronto-parieto-occipital region.
+** 230. Base of the skull.
+** 231. Temporal and mastoid regions.
+** 232. Infratemporal region.
+** 233. Facial region. Infraorbital, zygomatic, mental and buccal regions.
+** 234. Orbital region.
+** 235. Nasal region.
+** 236. Oral region.
+** 237. Parotideomasseteric region.
+** 238. Fasciae and connective tissue spaces of the neck.
+** 239. Submandibular triangle.
+** 240. Carotid triangle.
+** 241. Sternocleidomastoid region.
+** 242. Lateral cervical region.
+** 243. Infraclavicular region. Mammary region.
+** 244. Axillary region.
+** 245. Thoracic wall.
+** 246. Mediastinum.
+** 247. Regions of back. Posterior cervical region. Lumbar region.
+** 248. Vertebral canal and its content.
+** 249. Abdominal regions. Anterior abdominal wall. Inguinal canal.
+** 250. Upper division of the abdominal cavity.
+** 251. Lower division of the abdominal cavity.
+** 252. Retroperitoneal space.
+** 253. Peritoneal and subperitoneal division of the pelvis.
+** 254. Subcutaneous division of the pelvis. Ischioanal fossa.
+** 255. Deltoid region.
+** 256. Anterior region of arm.
+** 257. Posterior region of arm.
+** 258. Anterior and posterior regions of elbow.
+** 259. Anterior region of forearm.
+** 260. Posterior region of forearm.
+** 261. Anterior and posterior regions of wrist.
+** 262. Palmar region.
+** 263. Dorsum of hand.
+** 264. Digits of hand
+** 265.Gluteal region.
+** 266. Anterior region of thigh.
+** 267. Posterior region of thigh.
+** 268. Anterior and posterior regions of knee.
+** 269. Anterior region of leg.
+** 270. Posterior region of leg.
+** 271. Plantar region.
+** 272. Heel region.
+** 273. Dorsum of foot.
+** 274. Digits of foot or toes.
