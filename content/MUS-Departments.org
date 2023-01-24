@@ -13,7 +13,11 @@
 #+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
 
-
++ MUS-Documentation, information relative to the medical departments of the Medical University of Sofia
+  + Contact information
+  + Study resources
+    
+/for more information, check out my [[https://www.thanosapollo.com][homepage]]/
 
 * 1st year
 ** Chemistry
