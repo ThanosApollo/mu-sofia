@@ -1,4 +1,4 @@
-#+title: Genetics
+#+title: Medical University of Sofia | Genetics Documentation
 #+author: Thanos Apollo
 #+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
 # #+SETUPFILE: themes/org/theme-readtheorg.setup
@@ -14,8 +14,10 @@
 #+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
 
+/According to the syllabus of 2022/
+
 * [[https://muspenguins.github.io][Home Page]]
-* Recommended resources
+* Recommended resources & Information
 + [[https://zlibrary.to/pdfs/emerys-elements-of-medical-genetics-0][Emery's Elements Of Medical Genetics]]
 + [[https://zlibrary.to/pdfs/principles-of-genetics][Principles Of Genetics]]
 + Department:
