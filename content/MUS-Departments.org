@@ -1,4 +1,4 @@
-#+TITLE: MU-Sofia Departments Information
+#+TITLE: Medical University of Sofia | Departments Information
 #+OPTIONS: num:nil ^:{} date:nil timestamp:nil creator:t
 #+export_file_name: ../MUS-Departments.html
 #+DESCRIPTION: Information regarding the medical departments, of the Medical University of Sofia
