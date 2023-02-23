@@ -23,7 +23,7 @@
 + Pasteur demonstrations prompted *Joseph Lister's* work on wound sepsis
   + He introduced the practice of protecting wounds from airborne microbes by applying antiseptic dressing and making medical workers wash their hands with antiseptic solution before they touch a patient, achieving striking success at reducing mortality due to sepsis
 + Pasteur developed vaccines against chicken cholera and anthrax by using attenuated suspension of bacteria
-[[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.biography.com%2F.image%2Fc_fill%2Ccs_srgb%2Cdpr_1.0%2Cg_face%2Ch_300%2Cq_80%2Cw_300%2FMTE5NTU2MzE2MzM5NTM3NDE5%2Flouis-pasteur-9434402-1-402.jpg&f=1&nofb=1&ipt=3c5e1fe395d47e066c682c58056b3dea21d6914b458b50f6f6bcd936db245931&ipo=images]]
+
 *** Subject
 + Medical microbiology is the biological study of bacteria, viruses, fungi, protozoa and large algae which are collectively called as microorganisms
   + Characteristics of Microscopic organisms :
