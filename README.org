@@ -7,7 +7,7 @@ Repository hosting my personal notes regarding my medical courses at MU-Sofia.
 
 + For proper view of my notes/docs, I recommend using my [[https://thanosapollo.com/public/pages/mus-content.html#mus-content][website]]
 * Conents
-+ [[file:MUS-Departments.html][Departments Documentation]]
++ [[file:content/MUS-Departments.org][Departments Documentation]]
 + Subjects:
   + [[file:content/anatomy.org][Anatomy]]
   + [[file:content/Biology.org][Biology]]
