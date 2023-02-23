@@ -2,17 +2,9 @@
 #+author: Thanos Apollo
 #+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
 # #+SETUPFILE: themes/org/theme-readtheorg.setup
-#+export_file_name: ../Genetics.html
+#+export_file_name: ../public/Genetics.html
 #+OPTIONS: num:nil ^:{} date:nil timestamp:nil creator:t
-#+OPTIONS: html-style:nil
-
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
-
-#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-#+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 /According to the syllabus of 2022/
 
