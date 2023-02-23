@@ -2,7 +2,7 @@
 #+author: Thanos Apollo
 #+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+export_file_name: ../Microbiology.html
+#+export_file_name: ../public/Microbiology.html
 #+OPTIONS: num:nil ^:{} date:nil timestamp:nil creator:t
 * Recommended Resources
 + Sketchy: [[https://drive.google.com/drive/u/2/folders/1O2cn1S1XDDazyOmBMWZcPO0osLETVMFC][@Library]] | [[https://www.sketchy.com/][Official website]]
