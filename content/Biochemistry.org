@@ -2,6 +2,7 @@
 #+author: Thanos Apo11o
 #+description: Personal notes on biochemistry, according to the syllabus of MU-Sofia 2022
 
+* [[https://thanosapollo.com][Home Page]]
 * TODO 1. Contemporary Biochemistry – basis for understanding metabolism in health and disease. Subject, objectives and scope of Biochemistry. Relationship between Biochemistry and other biomedical disciplines stimulates mutual advances. Biochemical investigations – necessary for diagnosis, prognosis and therapy. Examples: galactosemia, myocardial infarction.
 * TODO 2. Proteins: significance, amino acid composition, classification of amino acids based on the chemical structure and polarity of the side chains. Covalent bonds and noncovalent interactions in the protein molecule. Characteristic features of the polypeptide chains. Primary structure. Differences in the primary structure of hemoglobin A and S. Insulin and diabetes mellitus. Primary structure of insulin in different species.
 * TODO  3. Secondary, tertiary and quaternary structure of proteins. Globular and fibrous proteins. Structure and function of hemoglobin. Glycated hemoglobin. Defects in collagen biosynthesis – scurvy. Denaturation and renaturation. Sickle cell anemia. Prion diseases. Relationship between protein structure and function.

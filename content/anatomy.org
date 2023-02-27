@@ -1,7 +1,8 @@
 #+title: Anatomy
 #+author: Thanos Apo11o
 
-** Recommended Resources
+* [[https://thanosapollo.com][Home Page]]
+* Recommended Resources
 + [[https://www.kenhub.com/][Kenhub]]
 
 * BONES AND JOINTS
