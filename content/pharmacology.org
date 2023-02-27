@@ -1,22 +1,304 @@
-
+#+STARTUP: overview
 * [[https://thanosapollo.com][Home Page]]
-* TODO GENERAL PHARMACOLOGY
+* GENERAL PHARMACOLOGY
 ** 1. Object and branches of pharmacology. Connection with other sciences. Historical review. Sourses of drugs.
+*** Object and branches of pharmacology
+Pharmacology is the study of drugs and their effects on living organisms. It is a branch of biomedical science that deals with the discovery, development, and evaluation of drugs and their therapeutic uses.
+There are two main branches of pharmacology: *pharmacokinetics* and *pharmacodynamics*
+
++ Pharmacokinetics deals with the absorption, distribution, metabolism, and excretion of drugs in the body.
+  + This includes the study of how drugs are absorbed into the bloodstream, how they are distributed to various organs and tissues, how they are metabolized or broken down, and how they are eliminated from the body.
+
++ Pharmacodynamics, on the other hand, deals with the effects of drugs on the body
+  + This includes their mechanisms of action, therapeutic and toxic effects, and interactions with other drugs and with physiological systems.
+*** Connetion with other sciences
+Pharmacology is closely connected with other sciences such as chemistry, biochemistry, physiology, and pathology.
++ Chemists are involved in the discovery and synthesis of new drugs, while biochemists study the biochemical mechanisms of drug action.
++ Physiologists study the effects of drugs on the body, while pathologists study the effects of diseases on the body and how drugs can be used to treat them.
+*** Historical review
++ The history of pharmacology can be traced back to ancient times, when people used natural remedies such as herbs and plants to treat illnesses.
++ The ancient Egyptians, Greeks, and Chinese all developed their own systems of medicine based on natural remedies.
+*** Sources of drugs
++ In modern times, the discovery of new drugs has been largely driven by advances in chemistry and biochemistry.
++ Many of the drugs used today are synthesized in laboratories, rather than being derived from natural sources.
++ However, natural products such as plants and animals still remain an important source of drugs.
+  + For example, the anti-cancer drug Taxol(paclitaxel) was originally isolated from the bark of the Pacific yew tree, and the painkiller morphine is derived from the opium poppy.
+*** Summary
+In summary, pharmacology is a branch of biomedical science that deals with the study of drugs and their effects on living organisms.
+It has two main branches: pharmacokinetics and pharmacodynamics, and is closely connected with other sciences such as chemistry, biochemistry, physiology, and pathology.
+The history of pharmacology can be traced back to ancient times, and the discovery of new drugs is still largely driven by advances in chemistry and biochemistry, although natural products remain an important source of drugs.
 ** 2. Drug - definition, origin, nomenclature. Drug form and drug product - definition. Drug preparations.
++ A drug is a substance that is used to treat, prevent, diagnose, or alleviate symptoms of a disease or medical condition.
++ Drugs can be administered in various forms, including tablets, capsules, liquids, creams, ointments, and injectables. They can be derived from natural sources, synthesized in a laboratory, or a combination of both.
+*** Defintion, origin and nomenclature
++ The term "drug" comes from the Dutch word "droog," which means "dry," and originally referred to dried herbs or plants used for medicinal purposes.
+  + Over time, the term came to encompass any substance that was used for therapeutic purposes, and later, for recreational or performance-enhancing purposes as well.
+
++ Nomenclature is the system of naming and classifying drugs.
+Drugs can be classified based on their chemical structure, mechanism of action, or therapeutic use.
+Generic names are the official names of drugs and are often based on their chemical structure.
++ For example, the generic name for the popular painkiller Advil is ibuprofen.
+
+In addition to generic names, drugs may also have brand names or trade names, which are typically chosen by the pharmaceutical company that produces and markets them.
+Brand names can be used to identify the manufacturer and may also help to distinguish different formulations of the same drug.
++ For example, the generic drug fluoxetine is sold under the brand name Prozac.
+*** Drug form and drug product
+A drug form is the physical form in which a drug is prepared for administration.
++ For example, tablets, capsules, liquids, and injectables are all different drug forms.
++ The choice of drug form can depend on a variety of factors, including the desired route of administration, the patient's preference, and the properties of the drug itself.
+
++ A drug product, on the other hand, is a specific formulation of a drug that is intended for use in humans or animals.
+  + A drug product typically contains one or more active ingredients, as well as excipients, which are inactive ingredients used to improve the stability, solubility, or other properties of the drug.
+*** Drug preparations
+Drug preparations are the different methods used to prepare a drug product.
++ These may include compounding, which involves the preparation of a drug product by a pharmacist or other healthcare professional, as well as the manufacturing of drugs by pharmaceutical companies.
++ Drug preparations may also involve the use of specialized equipment and techniques, such as aseptic processing or lyophilization, which are used to prepare sterile or stable drug products.
+*** Summary
++ In summary, a drug is a substance used for therapeutic, preventative, diagnostic or symptom-alleviating purposes. Drugs can be administered in various forms, and can be derived from natural sources, synthesized in a laboratory, or a combination of both.
++ The nomenclature of drugs can vary depending on the context, and drugs can have generic names, brand names, or trade names.
++ Drug forms and drug products are different concepts in pharmacology, with drug forms referring to the physical form in which a drug is prepared for administration, and drug products referring to the specific formulation of a drug that is intended for use in humans or animals.
++ Drug preparations are the different methods used to prepare a drug product.
 ** 3. Drug development - stages and phases.
+Drug development is a complex process that involves several stages and phases, including preclinical testing, clinical trials, and regulatory approval. Here are the main stages and phases of drug development:
+
++ Discovery and Preclinical Testing: This stage involves the identification of potential drug candidates and their preclinical testing, which includes laboratory and animal studies.
+  + Preclinical testing is done to determine the safety and efficacy of the drug candidate, as well as to determine its pharmacokinetic and pharmacodynamic properties.
+
++ Investigational New Drug (IND) Application: After preclinical testing is completed and the drug candidate shows promise, an IND application is submitted to regulatory authorities such as the FDA in the United States.
+  + The IND application includes data from preclinical testing, as well as a plan for clinical trials.
+
++ Clinical Trials: Clinical trials involve testing the drug candidate in humans to determine its safety and efficacy.
+  + Clinical trials are typically divided into three phases:
+
+    + Phase I: In this phase, the drug candidate is tested in a small group of healthy volunteers to determine its safety, dosage range, and pharmacokinetic properties.
+
+    + Phase II: In this phase, the drug candidate is tested in a larger group of patients to determine its effectiveness and further evaluate its safety.
+
+    + Phase III: In this phase, the drug candidate is tested in an even larger group of patients to confirm its effectiveness and monitor its side effects.
+
++ New Drug Application (NDA): If the results of the clinical trials are positive, an NDA is submitted to regulatory authorities such as the FDA. The NDA includes data from the clinical trials, as well as information on the drug's manufacturing, stability, and labeling.
+
++ Regulatory Approval: If the regulatory authorities approve the NDA, the drug is allowed to be marketed and sold to the public. Regulatory authorities may also require post-marketing surveillance to monitor the drug's safety and effectiveness.
+*** Summary
+In summary, drug development involves several stages and phases, including discovery and preclinical testing, an IND application, clinical trials (Phase I, II, and III), an NDA, and regulatory approval.
++ The entire process can take several years and involves significant investment of time and resources.
+  
 ** 4. Transmembrane transport of drugs.
+Transmembrane transport is the movement of drugs across the cell membrane, /which is a lipid bilayer that separates the interior of the cell from the extracellular space./
+
+*The cell membrane is a selectively permeable barrier that regulates the movement of ions, molecules, and other substances in and out of the cell.*
+
++ Drugs can be transported across the cell membrane through several mechanisms, including passive diffusion, facilitated diffusion, active transport, and endocytosis/exocytosis. The specific mechanism of transport depends on the physicochemical properties of the drug, the characteristics of the cell membrane, and the concentration gradient of the drug.
+
+  + *Passive diffusion is the movement of a drug from an area of high concentration to an area of low concentration, driven by the concentration gradient*. This process does not require energy and is the most common mechanism of transport for small, lipophilic molecules that can easily cross the lipid bilayer.
+
+  + *Facilitated diffusion is a type of passive transport that involves the use of carrier proteins to transport molecules across the cell membrane*. This mechanism is used for larger molecules that cannot cross the lipid bilayer by simple diffusion, but do not require energy to be transported.
+
+  + *Active transport is a mechanism of transport that requires energy and involves the use of carrier proteins to move molecules against their concentration gradient*. This mechanism is used for the transport of large molecules, ions, or drugs that are polar and cannot pass through the lipid bilayer by simple diffusion.
+
+  + Endocytosis and exocytosis are mechanisms of transport that involve the engulfment or release of molecules by the cell membrane. Endocytosis is the process by which cells take up large molecules or particles by engulfing them, while exocytosis is the process by which cells release molecules or particles by fusing vesicles with the cell membrane.
+
+The ability of a drug to cross the cell membrane is an important determinant of its pharmacokinetic properties, including its absorption, distribution, metabolism, and excretion. Understanding the mechanisms of transmembrane transport is therefore essential for the development of effective drugs and drug delivery systems.
+
 ** 5. Drug absorption after various routes of administration.
+Drug absorption refers to the process by which a drug enters the bloodstream after it has been administered to the body. The rate and extent of drug absorption can vary depending on the route of administration.
+
+Here are some examples of the routes of administration and the factors that affect drug absorption:
+
++ *Oral administration*: Drugs that are administered orally (by mouth) are absorbed through the gastrointestinal (GI) tract. The rate and extent of absorption can be influenced by several factors, including the solubility and stability of the drug, the pH of the GI tract, the presence of food in the stomach, and the motility of the GI tract. Once absorbed, the drug is transported to the liver before entering the systemic circulation.
+  + Oral administration is preferred when the drug has good oral bioavailability, meaning that it is absorbed efficiently through the gastrointestinal tract.
+  + This route is also preferred when the drug has a sustained-release formulation, which allows for a prolonged therapeutic effect.
+
++ *Parenteral administration*: Parenteral routes of administration include *intravenous (IV), intramuscular (IM), and subcutaneous (SC) injections*. Drugs that are administered parenterally *bypass the GI tract and are absorbed directly into the bloodstream.*
+  + *IV*:
+    + Preferred method when rapid onset of action is required, as the drug is delivered directly to the bloodstream and can quickly reach the target tissue or organ.
+    + This route is preferred when the drug has low oral bioavailability, meaning that it is poorly absorbed through the gastrointestinal tract.
+  + *IM & SC*:
+    + Intramuscular (IM) and subcutaneous (SC) injections: IM and SC injections are preferred when sustained or prolonged drug action is required, as the drug is absorbed slowly over time.
+    + These routes are also preferred when the drug has a low oral bioavailability or is poorly absorbed through the gastrointestinal tract.
+  + The rate and extent of absorption depend on factors such as the solubility and stability of the drug, the pH of the injection site, and the blood flow to the injection site.
+
++ *Topical administration*: Drugs that are applied to the skin or mucous membranes can be absorbed through the skin or the underlying tissues.
+  + Preferred when the target tissue or organ is localized and accessible, such as the skin or mucous membranes.
+  + The rate and extent of absorption depend on factors such as the thickness and integrity of the skin, the solubility and lipophilicity of the drug, and the surface area and duration of contact.
+
++ *Inhalation administration*: Drugs that are inhaled through the lungs can be rapidly absorbed into the bloodstream due to the large surface area and high blood flow of the lungs.
+  + Preferred when the target tissue or organ is the lungs or the respiratory system, such as in the case of asthma or chronic obstructive pulmonary disease (COPD).
+  + This route is also preferred when the drug has a low oral bioavailability or is rapidly metabolized in the liver.
+  + The rate and extent of absorption depend on factors such as the size and shape of the drug particles, the rate and depth of breathing, and the presence of mucus or other barriers in the airways.
+*** Summary
+In summary, drug absorption can vary depending on the route of administration.
++ Oral drugs are absorbed through the GI tract, while parenteral drugs are absorbed directly into the bloodstream.
++ Topical drugs are absorbed through the skin or mucous membranes,
++ Inhaled drugs are absorbed through the lungs.
+
+The choice of drug distribution method depends on the physicochemical properties of the drug, the target tissue or organ, and the therapeutic goal.
++ IV administration is preferred when rapid onset of action is required, while oral administration is preferred when the drug has good oral bioavailability.
++ Topical administration is preferred when the target tissue or organ is localized and accessible, while inhalation administration is preferred when the target tissue or organ is the lungs or the respiratory system.
++ IM and SC injections are preferred when sustained or prolonged drug action is required
+  
+The rate and extent of absorption depend on factors such as the physicochemical properties of the drug, the presence of barriers, and the blood flow to the site of absorption.
+
 ** 6. Drug distribution.
++ Drug distribution refers to the movement of drugs throughout the body after they have been absorbed into the bloodstream.
++ Once a drug enters the systemic circulation, it is distributed to various organs and tissues, where it can exert its pharmacological effects.
+
+The distribution of drugs is influenced by several factors, including the physicochemical properties of the drug, the blood flow to different organs and tissues, the degree of protein binding, and the permeability of cell membranes.
+
++ *One of the most important factors affecting drug distribution is the degree of protein binding.*
+  + Many drugs bind to proteins in the bloodstream, /such as albumin/, which reduces their free concentration and influences their distribution.
+
++ Drugs that are highly protein-bound may have a smaller volume of distribution, meaning that they are distributed primarily in the bloodstream and have a longer half-life.
+
++ Another important factor affecting drug distribution is the permeability of cell membranes. Many drugs must cross cell membranes to reach their site of action. The permeability of cell membranes can be influenced by factors such as the lipid solubility of the drug, the presence of transporters, and the structural characteristics of the membrane.
+
++ The rate and extent of drug distribution can also be influenced by the blood flow to different organs and tissues. Organs with a high blood flow, /such as the liver, kidneys, and brain/, may receive a larger proportion of the drug than organs with a lower blood flow, /such as adipose tissue/.
+
++ The distribution of drugs can also be affected by disease states or other factors that alter the physiological conditions of the body.
+  + For example, dehydration can cause a decrease in blood volume and a decrease in blood flow to certain organs, which can affect the distribution of drugs.
+*** Summary
+In summary, drug distribution is the movement of drugs throughout the body after they have been absorbed into the bloodstream. The distribution of drugs is influenced by factors such as protein binding, permeability of cell membranes, blood flow to different organs and tissues, and disease states. Understanding drug distribution is important for predicting drug effects and optimizing drug dosing.
 ** 7. Drug metabolism.
++ Drug metabolism, also known as biotransformation, refers to the process by which the body chemically modifies drugs to make them more water-soluble and easier to eliminate. This process occurs primarily in the liver, but can also occur in other organs such as the kidneys, lungs, and intestines.
+
++ There are two main phases of drug metabolism: *Phase I and Phase II*
+  + Phase I metabolism involves chemical reactions that introduce or unmask functional groups, such as hydroxyl (-OH), amino (-NH2), or carboxyl (-COOH) groups, that increase the water solubility of the drug.
+    + These reactions are typically catalyzed by enzymes such as *cytochrome P450 (CYP)* enzymes, which are found primarily in the liver.
+    + Phase I metabolism can also produce active or toxic metabolites, which can influence the pharmacological and toxicological properties of the drug.
+
+  + Phase II metabolism involves conjugation reactions that link the functional groups introduced in Phase I to endogenous compounds such as glucuronic acid, sulfate, or glutathione.
+    + These conjugation reactions further increase the water solubility of the drug and prepare it for elimination from the body.
+    + Phase II metabolism is catalyzed by enzymes such as *UDP-glucuronosyltransferases (UGTs), sulfotransferases, and glutathione S-transferases*, /UDP-glucuronosyltransferases (UGTs), sulfotransferases, and glutathione S-transferases (GSTs) are also found primarily in the liver/.
+
++ Drug metabolism can have important implications for drug efficacy and safety. The rate and extent of drug metabolism can influence the duration and intensity of drug action, as well as the potential for drug interactions and adverse drug reactions. Some drugs may be metabolized more quickly or slowly in certain individuals or populations, which can affect their therapeutic response or toxicity. Understanding drug metabolism is therefore an important aspect of drug development and clinical pharmacology.
+*** Summary
+In summary, drug metabolism is the process by which the body chemically modifies drugs to make them more water-soluble and easier to eliminate. There are two main phases of drug metabolism, Phase I and Phase II, which involve different types of chemical reactions and enzymes. Drug metabolism can affect the duration and intensity of drug action, as well as the potential for drug interactions and adverse drug reactions.
 ** 8. Drug excretion.
-** 9. Specific and non-specific type of drug action. Types of   ** receptors.
+Drug excretion is the process by which the body eliminates drugs from the body.
+*The primary route of drug excretion is through the kidneys*, /although drugs can also be excreted through the bile, lungs, sweat, and breast milk/.
+
+The elimination of drugs from the body occurs primarily through two processes: renal excretion and hepatic elimination.
++ *Renal excretion* involves the filtration of drugs from the bloodstream through the glomerulus of the kidneys, followed by the reabsorption or secretion of the drugs by the renal tubules. The rate and extent of renal excretion depend on several factors, including the physicochemical properties of the drug, the degree of protein binding, the pH of the urine, and the renal function of the individual.
+
++ *Hepatic elimination* involves the metabolism of drugs by enzymes in the liver, followed by the excretion of the metabolites into the bile. The metabolites can then be eliminated through the feces or reabsorbed into the bloodstream and eliminated through the kidneys. The rate and extent of hepatic elimination depend on several factors, including the activity of liver enzymes, the degree of protein binding, and the physicochemical properties of the drug.
+
+Other routes of drug excretion include excretion through the lungs, which occurs for drugs that are volatile and can be eliminated through the breath, and excretion through the sweat and breast milk, which occurs for drugs that are small and *lipophilic*.
+
++ The rate and extent of drug excretion can be influenced by several factors, including the age, sex, and body weight of the individual, as well as the presence of disease states that affect renal or hepatic function. Understanding drug excretion is important for determining drug dosing regimens and for predicting the duration and intensity of drug effects.
+*** Summary
+In summary, drug excretion is the process by which the body eliminates drugs from the body. The primary route of drug excretion is through the kidneys, although drugs can also be excreted through the bile, lungs, sweat, and breast milk. The rate and extent of drug excretion depend on several factors, including the physicochemical properties of the drug, the degree of protein binding, and the renal and hepatic function of the individual.
+** 9. Specific and non-specific type of drug action. Types of receptors.
+Drug action refers to the effect that a drug has on the body or on a specific tissue or organ. Drug action can be classified into specific and non-specific types, depending on the mechanism by which the drug produces its effect.
+
+Specific drug action involves the interaction of a drug with a specific target molecule or receptor in the body. Receptors are proteins that are located on the surface or inside cells and are involved in the regulation of various physiological processes. Specific drug action occurs when a drug binds to a receptor and either activates or inhibits its function. The specificity of drug action is determined by the ability of the drug to recognize and bind to a particular receptor.
+
+Non-specific drug action involves the interaction of a drug with a variety of targets in the body, such as cell membranes, enzymes, or ion channels. Non-specific drug action can occur when a drug is not selective in its binding to target molecules or when the drug has other effects that are not related to its binding to specific receptors.
+
+There are several types of receptors that drugs can interact with, including:
+ + G protein-coupled receptors (GPCRs): GPCRs are one of the largest families of receptors in the body and are involved in the regulation of many physiological processes, such as sensory perception, hormone secretion, and neurotransmitter signaling.
+ + Ligand-gated ion channels: Ligand-gated ion channels are receptors that are involved in the regulation of the flow of ions across cell membranes. These receptors are important in the function of the nervous system and are the targets of many drugs, including anesthetics and muscle relaxants.
+ + Enzymes: Enzymes are proteins that catalyze chemical reactions in the body. Some drugs can inhibit or activate enzymes, leading to changes in the activity of metabolic pathways.
+ + Nuclear receptors: Nuclear receptors are a family of transcription factors that are involved in the regulation of gene expression. Some drugs can bind to nuclear receptors and alter the expression of genes, leading to changes in cellular processes.
+*** Summary
+In summary, drug action can be classified into specific and non-specific types, depending on the mechanism by which the drug produces its effect. Specific drug action involves the interaction of a drug with a specific receptor, while non-specific drug action involves the interaction of a drug with a variety of targets in the body. There are several types of receptors that drugs can interact with, including G protein-coupled receptors, ligand-gated ion channels, enzymes, and nuclear receptors.
 ** 10. Characteristics of the receptor action of the drugs.
-** 11. Drug properties and environmental factors affecting ** drug   pharmacokinetics and drug pharmacodynamics.
-** 12. Factors from the human body affecting the drug   ** pharmacokinetics and drug pharmacodynamics.
+The characteristics of receptor action of drugs depend on the type of receptor and the mechanism of drug-receptor interaction. Here are some general characteristics of receptor action of drugs:
+
++ Specificity: A drug may interact with a specific receptor or a group of related receptors. The specificity of drug-receptor interaction is determined by the shape and chemical properties of the drug and the receptor.
+
++ Affinity: The strength of the interaction between a drug and a receptor is known as the drug's affinity for the receptor. A drug with high affinity for a receptor will bind to the receptor with greater strength than a drug with low affinity.
+
++ Efficacy: The ability of a drug to produce a biological effect after binding to a receptor is known as its efficacy. A drug with high efficacy will produce a greater biological effect than a drug with low efficacy, even if both drugs bind to the same number of receptors.
+
++ Potency: The amount of drug required to produce a given biological effect is known as its potency. A drug with high potency will produce a biological effect at a lower dose than a drug with low potency.
+
++ Receptor reserve: The number of receptors required to produce a maximal biological effect is known as the receptor reserve. Some drugs can produce a maximal effect even when only a fraction of the available receptors are occupied, while other drugs require a high degree of receptor occupancy to produce a maximal effect.
+
++ Receptor desensitization: Prolonged or repeated exposure to a drug can lead to a decrease in the response of the receptor to the drug, known as receptor desensitization. This can result in decreased efficacy or potency of the drug over time.
+
+Understanding the characteristics of receptor action of drugs is important for predicting drug effects and optimizing drug dosing. It is also important for the development of new drugs and for the identification of potential drug interactions or adverse effects.
+** 11. Drug properties and environmental factors affecting drug pharmacokinetics and drug pharmacodynamics.
+Drug pharmacokinetics and pharmacodynamics can be affected by a variety of drug properties and environmental factors. Here are some examples:
+
++ Drug properties:
+  + Chemical properties: The chemical structure of a drug can affect its solubility, stability, and absorption. Drugs with high lipophilicity, for example, may be absorbed more readily than drugs with low lipophilicity.
+  + Protein binding: The degree to which a drug binds to plasma proteins can affect its distribution and elimination from the body. Highly protein-bound drugs, for example, may be less available for metabolism and excretion.
+  + Metabolic stability: The susceptibility of a drug to metabolism can affect its duration of action and potential for drug interactions. Drugs that are rapidly metabolized may have a short duration of action, while drugs that are metabolized slowly may have a longer duration of action.
+
++ Environmental factors:
+  + Age: Age can affect drug pharmacokinetics and pharmacodynamics due to changes in organ function and metabolism. For example, elderly individuals may have decreased renal function, which can affect drug elimination.
+  + Diet: Diet can affect drug absorption and metabolism. Grapefruit juice, for example, can inhibit the metabolism of certain drugs, leading to increased drug concentrations and potential toxicity.
+  + Disease: Disease states can affect drug pharmacokinetics and pharmacodynamics due to changes in organ function and metabolism. Liver disease, for example, can affect drug metabolism and elimination.
+  + Genetics: Genetic variations can affect drug metabolism and transport, leading to differences in drug response between individuals or populations.
+
+
+** 12. Factors from the human body affecting the drug pharmacokinetics and drug pharmacodynamics.
+There are several factors from the human body that can affect drug pharmacokinetics and pharmacodynamics, including:
+
++ Age: Age can affect drug pharmacokinetics and pharmacodynamics due to changes in organ function and metabolism. For example, elderly individuals may have decreased renal function, which can affect drug elimination. In addition, neonates and infants may have immature organ function, which can affect drug metabolism and elimination.
+
++ Body weight and composition: Body weight and composition can affect drug distribution and elimination. Highly lipophilic drugs, for example, may accumulate in adipose tissue and have a longer half-life in individuals with a high body fat percentage.
+
++ Gender: Gender can affect drug pharmacokinetics and pharmacodynamics due to differences in body composition, organ function, and hormone levels. Women, for example, may have a higher percentage of body fat and lower renal blood flow than men, which can affect drug distribution and elimination.
+
++ Genetics: Genetic variations can affect drug metabolism and transport, leading to differences in drug response between individuals or populations. Polymorphisms in genes encoding drug-metabolizing enzymes, transporters, or receptors can affect drug efficacy and toxicity.
+
++ Disease states: Disease states can affect drug pharmacokinetics and pharmacodynamics due to changes in organ function and metabolism. Liver disease, for example, can affect drug metabolism and elimination, while kidney disease can affect drug excretion.
+
++ Drug interactions: Drug interactions can affect drug pharmacokinetics and pharmacodynamics by altering drug metabolism, distribution, or elimination. Some drugs can induce or inhibit drug-metabolizing enzymes or transporters, leading to changes in drug levels and potential toxicity.
+
+
 ** 13. Effects occurring after repeated drug administration.
+Effects that can occur after repeated drug administration depend on several factors, including the dose, frequency, and duration of drug use, as well as the individual's age, sex, and health status. Here are some examples of effects that can occur after repeated drug administration:
+
++ Tolerance: Tolerance is a phenomenon in which the body becomes less responsive to a drug after repeated use. This can result in the need for higher doses to achieve the same effect or a decrease in the intensity or duration of the drug's effects. Tolerance can occur with both therapeutic and recreational drugs.
+
++ Dependence: Dependence is a condition in which the body becomes reliant on a drug to function normally. Dependence can be physical or psychological and can lead to withdrawal symptoms when the drug is discontinued.
+
++ Rebound effects: Rebound effects are the return of symptoms that were suppressed by a drug after the drug is discontinued. This can occur with drugs that affect the central nervous system, such as benzodiazepines or opioids.
+
++ Withdrawal symptoms: Withdrawal symptoms are the physical and psychological symptoms that occur after the discontinuation of a drug that the body has become dependent on. Symptoms can include nausea, vomiting, diarrhea, anxiety, and insomnia.
+
++ Adverse effects: Repeated drug administration can increase the risk of adverse effects, including toxic effects on organs or tissues, allergic reactions, and drug interactions.
+
+Understanding the effects that can occur after repeated drug administration is important for managing drug therapy and minimizing the risk of adverse effects. Healthcare professionals should monitor patients for signs of tolerance, dependence, rebound effects, withdrawal symptoms, and adverse effects and adjust drug therapy as needed.
 ** 14. Drug interactions at a pharmacokinetic level.
+Drug interactions can occur at a pharmacokinetic level, affecting the absorption, distribution, metabolism, or elimination of drugs. Here are some examples of drug interactions at a pharmacokinetic level:
+
++ Absorption interactions: Interactions can occur when two or more drugs are taken together and affect the absorption of each other. This can occur, for example, when drugs alter the pH of the gastrointestinal tract or affect the activity of transporters responsible for drug absorption.
+
++ Distribution interactions: Interactions can occur when drugs alter the distribution of other drugs in the body. For example, highly protein-bound drugs can compete for binding sites on plasma proteins, leading to increased free drug concentrations and potential toxicity.
+
++ Metabolism interactions: Interactions can occur when drugs affect the metabolism of other drugs. This can occur when drugs induce or inhibit drug-metabolizing enzymes, leading to changes in drug concentrations and potential toxicity.
+
++ Elimination interactions: Interactions can occur when drugs affect the elimination of other drugs from the body. This can occur when drugs inhibit or induce drug transporters or alter renal function, leading to changes in drug concentrations and potential toxicity.
+
++ Pharmacokinetic interactions with food or dietary supplements: Interactions can occur when food or dietary supplements affect the absorption, distribution, metabolism, or elimination of drugs. This can occur, for example, when food alters the pH of the gastrointestinal tract or affects the activity of transporters responsible for drug absorption.
+
+
 ** 15. Drug interactions at a pharmacodynamic level.
+Drug interactions can also occur at a pharmacodynamic level, affecting the activity of drugs at their site of action. Here are some examples of drug interactions at a pharmacodynamic level:
+
++ Additive effects: Additive effects occur when two or more drugs with similar mechanisms of action are taken together and produce a combined effect that is equal to the sum of their individual effects. This can occur, for example, when two drugs that affect blood pressure are taken together.
+
++ Synergistic effects: Synergistic effects occur when two or more drugs with different mechanisms of action are taken together and produce a combined effect that is greater than the sum of their individual effects. This can occur, for example, when a pain reliever is taken together with a muscle relaxant.
+
++ Antagonistic effects: Antagonistic effects occur when two or more drugs are taken together and produce a combined effect that is less than the sum of their individual effects. This can occur, for example, when an antidote is given to reverse the effects of a drug overdose.
+
++ Functional interactions: Functional interactions occur when two or more drugs interact with the same physiological system or process in the body. This can occur, for example, when two drugs that affect the same neurotransmitter system are taken together.
+
++ Alterations in drug sensitivity: Interactions can occur when one drug alters the sensitivity of another drug's target receptor or pathway. For example, a drug that blocks a receptor may decrease the sensitivity of that receptor to another drug.
+
 ** 16. Pharmaceutical drug interactions (drug incompatibility).   Drugs affecting clinical  laboratory tests. Interactions of drugs with foods.
+Pharmaceutical drug interactions, also known as drug incompatibility, occur when two or more drugs are combined and interact with each other in a way that alters their therapeutic effect or increases the risk of adverse effects. Here are some examples of pharmaceutical drug interactions:
+
++ Drug-drug interactions: Interactions can occur when two or more drugs are taken together and affect their absorption, distribution, metabolism, or elimination. This can lead to changes in drug concentrations and potential toxicity.
++ Drug-disease interactions: Interactions can occur when a drug is used in a patient with a particular disease or condition, leading to changes in drug efficacy or potential adverse effects.
++ Drug-allergy interactions: Interactions can occur when a patient is allergic to a drug or its components, leading to allergic reactions or other adverse effects.
++ Drug-laboratory interactions: Interactions can occur when a drug affects the results of clinical laboratory tests, leading to inaccurate or misleading results. For example, certain drugs can affect the levels of enzymes, electrolytes, or blood glucose, leading to false-positive or false-negative results.
++ Drug-food interactions: Interactions can occur when a drug interacts with certain foods or dietary supplements, leading to changes in drug absorption, distribution, metabolism, or elimination. For example, some drugs should not be taken with grapefruit juice because it can increase the drug's concentration in the body and increase the risk of toxicity.
+
+  
 * TODO PHARMACOLOGY OF ORGAN SYSTEMS
 **   17. Pharmacological modulation of the cholinergic   ** neurotransmission – levels and
 **   mechanisms.
