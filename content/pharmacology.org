@@ -1,0 +1,104 @@
+
+* [[https://thanosapollo.com][Home Page]]
+* TODO GENERAL PHARMACOLOGY
+** 1. Object and branches of pharmacology. Connection with other sciences. Historical review. Sourses of drugs.
+** 2. Drug - definition, origin, nomenclature. Drug form and drug product - definition. Drug preparations.
+** 3. Drug development - stages and phases.
+** 4. Transmembrane transport of drugs.
+** 5. Drug absorption after various routes of administration.
+** 6. Drug distribution.
+** 7. Drug metabolism.
+** 8. Drug excretion.
+** 9. Specific and non-specific type of drug action. Types of   ** receptors.
+** 10. Characteristics of the receptor action of the drugs.
+** 11. Drug properties and environmental factors affecting ** drug   pharmacokinetics and drug pharmacodynamics.
+** 12. Factors from the human body affecting the drug   ** pharmacokinetics and drug pharmacodynamics.
+** 13. Effects occurring after repeated drug administration.
+** 14. Drug interactions at a pharmacokinetic level.
+** 15. Drug interactions at a pharmacodynamic level.
+** 16. Pharmaceutical drug interactions (drug incompatibility).   Drugs affecting clinical  laboratory tests. Interactions of drugs with foods.
+* TODO PHARMACOLOGY OF ORGAN SYSTEMS
+**   17. Pharmacological modulation of the cholinergic   ** neurotransmission – levels and
+**   mechanisms.
+**   18. Cholinergic drugs (cholinomimetics).
+**   19. Antimuscarinic drugs (M-cholinolytics).
+**   20. Neuromuscular blockers (Peripheral muscle relaxants).
+**   21. Pharmacological modulation of the adrenergic   ** neurotransmission – levels and
+**   mechanisms.
+**   22. Adrenomimetics.
+**   23. Alpha-adrenergic blocking agents. Agonists of the  ** central presynaptic α2a-adrenergic
+** receptors.
+**  24. Beta-adrenergic blocking agents.
+**  25. Histamine antagonists.
+**  26. Serotonin agonists and antiserotoninergic drugs.
+**  27. Local anaesthetics.
+**  28. General anaesthetics.
+**  29. Hypnotics. Sedative drugs with plant origin.
+**  30. Antiepileptic drugs.
+**  31. Antiparkinsonian drugs.
+**  32. Neuroleptics.
+**  33. Anxiolytics. Muscle relaxants with central action.
+**  34. Antidepressants. Antimanic drugs.
+**  35. Psychostimulants. Nootropic drugs.
+**  36. Opioid analgesics.
+**  37. Nonsteroidal anti-inflammatory drugs. Non-opioid  ** analgesics.
+**  38. Calcium channel blockers.
+**  39. Drugs that affect the renin-angiotensin-aldosterone ** system.
+**  40. Antihypertensive drugs.
+**  41. Antiarrhythmic drugs.
+**  42. Antianginal (antistenocardial) drugs.
+**  43. Drugs for the treatment of heart failure.
+**  44. Diuretics.
+**  45. Peripheral vasodilators. Capillarotonic and venotonic  ** drugs.
+**  46. Antimigraine drugs.
+**  47. Antidyslipidemic drugs.
+**  48. Haematopoietic drugs.
+**  49. Haemostatics (antiheamorrhagic) drugs.
+**  50. Anticoagulants.
+**  51. Fibrinolytics. Antiplatelet drugs.
+**  52. Antiasthmatic drugs.
+**  53. Antitussive drugs.
+**  54. Antiulcer drugs.
+**  55. Antiemetic drugs.
+**  56. Hepatoprotectors. Drugs that affect bile secretion.  ** Pancreatic enzyme preparations.
+**  57. Laxative drugs.
+**  58. Antidiarrheal drugs.
+**  59. Vitamins – clinical applications.
+**  60. Drugs that affect calcium and phosphorus exchange.  ** Antigout drugs.
+**  61. Hypothalamic and pituitary hormones – drugs and clinical  application.
+**  62. Thyreoactive drugs.
+**  63. Insulins and insulin analogues.
+**  64. Oral antidiabetic drugs.
+**  65. Glucocorticoids and mineralcorticoids.
+**  66. Female sex hormones – drugs and clinical application.  ** Hormonal contraceptives.
+**  67. Male sex hormones – drugs and clinical application.  ** Anabolic drugs. Drugs for the
+**  treatment of erectile dysfunction.
+**  68. Uteroactive drugs.
+**  69. Antibiotics – classification; mechanisms, type of  ** action.and antimicrobial spectrum.
+**  Principles of the rational antibiotic therapy and prophylaxis.
+**  70. Penicillins.
+**  71. Cephalosporins.
+**  72. Carbapenems and monobactams. Glycopeptides.
+**  73. Aminoglycosides.
+**  74. Tetracyclines.
+**  75. Macrolides and ketolides.
+**  76. Lincosamides. Amphenicols.
+**  77. Sulfanoamides.
+**  78. Quinolones.
+**  79. Antituberculosis drugs. Antileprosy drugs.
+**  80. Antimycotics.
+**  81. Antiviral drugs.
+**  82. Antiprotozoal drugs.
+**  83. Antihelmintic drugs.
+**  84. Antiseptics and disinfectants.
+**  85. Antitumor chemotherapeuticals.
+**  86. Hormonal antitumor drugs. Target antitumor drugs.
+**  87. Immunomodulators. 
+* TODO DRUG TOXICOLOGY
+** 88. Side effects of drugs.
+** 89. Organ toxic effects of drugs.
+** 90. Fetal damage caused by drugs.
+** 91. Principles of reatment of acute drug poisoning.
+** 92. Antidotes.
+** 93. Acute intoxication and abuse of opioids. Principles of the treatment.
+** 94. Acute intoxication and abuse of benzodiazepines. Principles of the treatment.        
