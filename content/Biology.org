@@ -2,7 +2,7 @@
 #+author: Thanos Apo11o
 #+description: Personal notes on biochemistry, according to the syllabus of MU-Sofia 2022
 #+SETUPFILE: ../themes/org/theme-readtheorg-local.setup
-
+#+STARTUP: overview
 
 
 * [[https://thanosapollo.com][Home Page]]
