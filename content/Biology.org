@@ -737,19 +737,25 @@ L
 * TODO 76. Human evolution.
 * TODO 77. Molecular evolution.
 * 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
-*** Trypanosoma brucei
+** Phylum Sarcomastigophora
++ Phylum Sarcomastigophora is a group of unicellular eukaryotic organisms that are classified based on their method of movement.
++ They include various species of protozoa that move using pseudopodia (temporary extensions of the cell membrane), flagella (long, whip-like appendages), or both.
+** Trypanosoma brucei
 + Causes African trypanosomiasis(Sleeping sickness)
 + Trypanosoma brucei is a hemoflagellate protozoan(flagellated/trypomastigote in the blood, amastigote in tissue)
 + Vector transmission by bite of *tsetse fly*
-+ Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly
-+ Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, more common in cattle than humans(humans are secondary host)
++ Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly.
+  + Responsible for over 95% of reported cases of African trypanosomiasis
++ Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, which progresses rapidly (less common)
 + Stages of disease:
-  + Stage I :
+  + Stage I - Hemolymphatic stage :
     + *Intermittent fever* : caused by antigenic variation
     + Painless lymph node enlargement
     + *Winterbottom* sign : painles cervical lymphadenopathy in the posterior triangle of the neck
-  + Stage II :
-    + Headache
+    + Fever, headache and joint pain
+  + Stage II - Meningoencephalitic :
+    + /Occurs when the parasite has crossed the blood-brain barrier/
+    + Severe neutological symptoms /such as tremors and difficulty walking/
     + Insomnia
     + *Coma*
     + Death
@@ -759,7 +765,7 @@ L
   + Treatment :
     + Stage I  -> Suramin
     + Stage II -> Melarsoprol
-*** Trypanosoma cruzi
+** Trypanosoma cruzi
 + Causes Chagas Disease
   + /Disease first desrcibed by Carlos Chagas in 1909, now it is known as Chagas Disease/
 + Trypomastigote form in blood, amastigote in tissues
@@ -768,10 +774,11 @@ L
 + *Endemic to Central and South America*
 + Clinical features :
   + Incubation period 1-2 weeks
-  + Actue phase
+  + Acute phase
     + Cutaneous manifestations :
       + Chagoma: infammatory edema at the bite site(usually face)
       + Romana sign : unilateral painless edema of the eyelids
+      + May cause fever and swelling of lymph nodes
   + Indeterminate phase
     + Patient enters asymptomatic latent phase
     + Serologically positive, do not develop signs or symptoms associated with chronic phase
@@ -794,13 +801,14 @@ L
   + Numerous amastigote nuclei can be seen in the cytoplasm of macrophages on microscopy
 *** Leishmania braziliensis & Leishmania Tropica
 + Leishmania braziliensis : Found in south America(Brazil)
-+ Leishmania tropica: Europe, Africa
++ Leishmania tropica: Asia, the Middle east and Africa
 + Both cause cutaneous leishmaniasis :
   + Presents with papules and plaques that progress to ulcerative lesions
 + Local treatment with cryotherapy OR paromomycin
 *** Leishmania donovani
 + Causes Visceral leishmaniasis(kalazar, black fever)
 + Spiking fever
+  - Intermitten fever with spiking pattern(temp rises rapidly and tehn falling just as quickly)
 + Affects the bone marrow, leading to pancytopenia
 + hepatosplenomegaly
 + Treatment :
