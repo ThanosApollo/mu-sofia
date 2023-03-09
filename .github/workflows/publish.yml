@@ -18,9 +18,10 @@ jobs:
       - name: Build the site
         run: ./build.sh
       - name: Publish generated content to GitHub Pages
+        permissions:
+          contents: write
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages
           folder: public
-permissions:
-  contents: write          
+          
