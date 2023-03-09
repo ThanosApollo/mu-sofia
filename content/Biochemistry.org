@@ -1,6 +1,10 @@
 #+title: Biochemistry
 #+author: Thanos Apo11o
-#+description: Personal notes on biochemistry, according to the syllabus of MU-Sofia 2022
+#+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
+#+export_file_name: ../public/Genetics.html
+#+OPTIONS: num:nil ^:{} date:nil timestamp:nil creator:t
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+STARTUP: overview
 
 * [[https://thanosapollo.com][Home Page]]
 * TODO 1. Contemporary Biochemistry – basis for understanding metabolism in health and disease. Subject, objectives and scope of Biochemistry. Relationship between Biochemistry and other biomedical disciplines stimulates mutual advances. Biochemical investigations – necessary for diagnosis, prognosis and therapy. Examples: galactosemia, myocardial infarction.
