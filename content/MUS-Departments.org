@@ -12,7 +12,8 @@
 + MUS-Documentation, information relative to the medical departments of the Medical University of Sofia
   + Contact information
   + Study resources
-    
+
+You should also check this [[https://drive.google.com/drive/u/1/folders/1jwAcnVtDQwHH2yQgbClMMBzmh85gBarW][Student's Library]], use your university email to gain access /ending in <random-nums>@students.mu-sofia/ 
 
 * 1st year
 ** Chemistry
