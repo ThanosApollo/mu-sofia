@@ -9,6 +9,8 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+          contents: write
     steps:
       - name: Check out
         uses: actions/checkout@v1
@@ -18,7 +20,7 @@ jobs:
 
       - name: Build the site
         run: ./build.sh
-      - name: Publish generated content to GitHub Pages
+      - name: Publish generated content to GitHub Pages        
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages
