@@ -23,296 +23,296 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgcde5849">Home Page</a></li>
-<li><a href="#org8a0a3fe"><span class="todo TODO">TODO</span> 1. Contemporary Biochemistry – basis for understanding metabolism in health and disease. Subject, objectives and scope of Biochemistry. Relationship between Biochemistry and other biomedical disciplines stimulates mutual advances. Biochemical investigations – necessary for diagnosis, prognosis and therapy. Examples: galactosemia, myocardial infarction.</a></li>
-<li><a href="#orge8e83e6"><span class="todo TODO">TODO</span> 2. Proteins: significance, amino acid composition, classification of amino acids based on the chemical structure and polarity of the side chains. Covalent bonds and noncovalent interactions in the protein molecule. Characteristic features of the polypeptide chains. Primary structure. Differences in the primary structure of hemoglobin A and S. Insulin and diabetes mellitus. Primary structure of insulin in different species.</a></li>
-<li><a href="#org45835fb"><span class="todo TODO">TODO</span> 3. Secondary, tertiary and quaternary structure of proteins. Globular and fibrous proteins. Structure and function of hemoglobin. Glycated hemoglobin. Defects in collagen biosynthesis – scurvy. Denaturation and renaturation. Sickle cell anemia. Prion diseases. Relationship between protein structure and function.</a></li>
-<li><a href="#org2bcb61e"><span class="todo TODO">TODO</span> 4. Charge properties of the amino acids and proteins. Electrophoresis. Electrophoretic profiles of serum proteins, role for diagnostics. Chromatographic techniques. Principles of quality and quantity analysis of proteins. Phenylketonuria.</a></li>
-<li><a href="#org5449107"><span class="todo TODO">TODO</span> 5. Nucleic acids – types and biological role. Chemical composition, chemical bonds within nucleotides and between them. Free nucleotides with important biological action. Characteristics of the polynucleotide chains. Purine and pyrimidine analogs as anticancer and antimicrobial agents.</a></li>
-<li><a href="#orga630560"><span class="todo TODO">TODO</span> 6. Primary structure of nucleic acids. Conformation of DNA and different RNAs. Types of RNA and their biological significance. Electrophoretic methods for investigation of DNA and RNA. Sickle cell anemia and phenylketonuria – examples for molecular diseases.</a></li>
-<li><a href="#org0908a99"><span class="todo TODO">TODO</span> 7. Characteristics of the enzymes as biological catalysts. Coenzymes and prosthetic groups. Nomenclature and classification of enzymes. Mechanism of enzyme catalysis. Enzyme-substrate complex. Active cite. Enzyme specificity.</a></li>
-<li><a href="#org7ce5f5d"><span class="todo TODO">TODO</span> 8. Enzyme kinetics. Michaelis-Menten equation – effect of the substrate concentration and the enzyme concentration on the velocity of the enzyme-catalyzed reaction. Enzyme units. Evaluation of the kinetic parameters Vmax and Km via the Lineweaver-Burk plot. Kinetic characteristics of phosphoribosyl pyrophosphate synthetase in cases of gout. Increased sensitivity to ethanol due to increased Km of acetaldehyde dehydrogenase.</a></li>
-<li><a href="#org5cea989"><span class="todo TODO">TODO</span> 9. Effect of pH and temperature on the velocity of enzyme-catalyzed reactions. Changes in the pH optimum of alcohol dehydrogenase and acetaldehyde dehydrogenase in high ethanol sensitivity. Regulation of enzyme activity. Competitive and noncompetitive inhibitors. Antimetabolites. Activators. Allosteric regulation. Goat in allosteric center defects of glutamine-PRPP-amidotransferase. Orotaturia.</a></li>
-<li><a href="#orga13e850"><span class="todo TODO">TODO</span> 10. Phosphorylation and dephosphorylation – major regulatory mechanism in the cell. Protein kinases and protein phosphatases - classification. Cascade for regulation of glycogen phosphorylase and glycogen synthase.</a></li>
-<li><a href="#org2c9de2c"><span class="todo TODO">TODO</span> 11. Importance of enzymes for the clinical practice. Isozymes. Electrophoresis of lactate dehydrogenase isozymes. Increase in the levels of nonfunctional plasma enzymes (in myocardial infarction and hepatitis). Changes in functional plasma enzymes. Genetically determined enzymopathies (cases of gout, Lesch-Nyhan syndrome). Enzymes in therapy (in myocardial infarction). Restriction endonucleases.</a></li>
-<li><a href="#org8a2388d"><span class="todo TODO">TODO</span> 12. Compartmentalization of metabolic processes. Metabolic pathways – types, biomedical significance. Characteristics of the living organisms as open chemical systems. Coupling of endergonic and exergonic processes via high-energy compounds. Types of high-energy compounds. Central role of the system ATP/ADP in energy transfer.</a></li>
-<li><a href="#org637a47a"><span class="todo TODO">TODO</span> 13. Characteristics of biological oxidation. Substrates of biological oxidation and ultimate acceptors of hydrogen. Oxido-reductases, important redox-systems: NAD+/NADН+H+, NADP+/NADPН+H+,FMN/FMN.Н2, FAD/FAD.Н2, CoQ/CoQ.H2, heme of cytochromes, lipoate, ascorbate.</a></li>
-<li><a href="#org0d9c93a"><span class="todo TODO">TODO</span> 14. Oxidative phosphorylation at substrate level: oxidative phosphorylation of glyceraldehyde 3-phosphate, enolase reaction, oxidative decarboxylation of α-keto acids (pyruvate dehydrogenase complex, role of the cofactors TPP, lipoate, CoA, FAD and NAD+). Beri-beri.</a></li>
-<li><a href="#orgb691adc"><span class="todo TODO">TODO</span> 15. Respiratory chain – localization, function and molecular structure. Sites for proton translocation. Coefficient of oxidative phosphorylation (P/O). Respiratory control, phosphate potential. Inhibitors of electron transfer: barbiturates, antimycin A, КCN. Dangerous combination of barbiturates and alcohol. Mitochondrial diseases.</a></li>
-<li><a href="#org2d1f212"><span class="todo TODO">TODO</span> 16. Chemiosmotic theory for the mechanism of the oxidative phosphorylation in the respiratory chain. ATP synthase. Effect of uncouplers (2,4-dinitrophenol). Natural uncouplers. Inhibitors of oxidative phosphorylation (oligomycin).</a></li>
-<li><a href="#orgc1160be"><span class="todo TODO">TODO</span> 17. Uncoupled oxidation. Heat production. Role of thermogenin in mitochondria of brown adipose tissue. Electron transfer in the endoplasmic reticulum. Formation and detoxifying of reactive oxygen intermediates: superoxide, H2O2 and free hydroxyl radical.</a></li>
-<li><a href="#orgdc3d38d"><span class="todo TODO">TODO</span> 18. Citric acid cycle – importance for catabolism and anabolism. Chemical reactions. Metabolic and energy balance. Mechanisms of regulation. Anaplerotic reactions. Pyruvate dehydrogenase deficiency.</a></li>
-<li><a href="#org82ce888"><span class="todo TODO">TODO</span> 19. Glycolysis – importance, chemical reactions, energy balance at anaerobic and aerobic conditions. Tissue specificity of glycolysis. Metabolic fate of NADH+H+, lactate and pyruvate. Relations between glycolysis and respiratory chains – shuttle mechanisms for transfer of hydrogen from the cytoplasm into mitochondria (malate and glycerophosphate shuttles). Pasteur effect. Links with the citric acid cycle. Lactic acidosis. Hemolytic anemia due to pyruvate kinase deficiency.</a></li>
-<li><a href="#org4665474"><span class="todo TODO">TODO</span> 20. Gluconeogenesis. Importance. Circumvention of the three irreversible steps in glycolysis. Regulation of gluconeogenesis. Fructose-1,6-bisphosphatase deficiency, hypoglycemia and prematurely born infants, hypoglycemia and alcohol intoxication.</a></li>
-<li><a href="#org0bb6457"><span class="todo TODO">TODO</span> 21. The pentose phosphate pathway. Importance. Oxidative, isomerase and transferase reactions. Glucose- 6-phospate dehydrogenase deficiency.</a></li>
-<li><a href="#org5c2bbd4"><span class="todo TODO">TODO</span> 22. Metabolism of galactose, fructose and mannose. Galactosemia (type I and II). Essential fructosuria. Fructose intolerance.</a></li>
-<li><a href="#org73ae447"><span class="todo TODO">TODO</span> 23. Glycogen – structure, hydrolytic and phosphorolitic degradation, synthesis. Regulation of glycogenolysis and glycogen synthesis. Glycogen storage diseases.</a></li>
-<li><a href="#orgc355f3b"><span class="todo TODO">TODO</span> 24. Regulation of carbohydrate metabolism and blood glucose level. Role of different tissues and organs. The Cori cycle. Regulatory enzymes and hormones.</a></li>
-<li><a href="#orgb5660cc"><span class="todo TODO">TODO</span> 25. Lipids – classification. Oxidation of fatty acids with an even and odd number of carbon atoms. Energy balance. Enzyme deficiencies in the beta-oxidation.</a></li>
-<li><a href="#org00f1be4"><span class="todo TODO">TODO</span> 26. Biosynthesis of fatty acids. Acetyl-CoA carboxylase. Fatty acyl synthase – multifunctional enzyme. Regulation.</a></li>
-<li><a href="#orgc505e8e"><span class="todo TODO">TODO</span> 27. Desaturation of fatty acids. Deficit of essential fatty acids. Eicosanoids – major classes and biological role. Catabolism and biosynthesis of triacylglycerols. Hormone sensitive lipase. Metabolism of glycerol.</a></li>
-<li><a href="#orgc4305d3"><span class="todo TODO">TODO</span> 28. Metabolism (degradation and synthesis) of glycerophosphatides. Phospholipases A1, A2, C and D. Sphingolipids – types, structure and significance. Sphingolipidoses.</a></li>
-<li><a href="#org8c6097c"><span class="todo TODO">TODO</span> 29. Ketogenesis. Utilization and oxidation of ketone bodies in extrahepatic tissues. Ketonemia and ketonuria. Ketoacidosis in starvation and in Diabetes Mellitus.</a></li>
-<li><a href="#org5561288"><span class="todo TODO">TODO</span> 30. Structure, role and synthesis of cholesterol. Regulation. Excretion from the body.</a></li>
-<li><a href="#org12faad4"><span class="todo TODO">TODO</span> 31. Derivatives of cholesterol (steroid hormones, vitamin D, bile acids) – structure and biological role. Enterohepatic circulation of bile acids. Rickets.</a></li>
-<li><a href="#org6f1cb3a"><span class="todo TODO">TODO</span> 32. Transport of lipids in organism. Types - composition, origin and functions of lipoprotein complexes. Role of proteins in lipoproteins. Formation, degradation and conversion of lipoproteins. Receptors for lipoproteins. Familiar hypercholesterolemia.</a></li>
-<li><a href="#orgf123a41"><span class="todo TODO">TODO</span> 33. Obesity. Role of leptin. Fatty liver. Atherosclerosis, tissue ischemia and myocardial infarction. Cholelithiasis.</a></li>
-<li><a href="#org541f7ae"><span class="todo TODO">TODO</span> 34. General reactions of amino acid catabolism: oxidative deamination, transamination, transdeamination. Clinical importance of aminotransferases. Decarboxylation of amino acids. Biological amines. Parkinson’s disease.</a></li>
-<li><a href="#org7d08a79"><span class="todo TODO">TODO</span> 35. Detoxification of ammonia. Synthesis of glutamate and glutamine. Urea cycle and ammoniagenesis. Links to citric acid cycle. Glucose-alanine cycle. Enzyme defects.</a></li>
-<li><a href="#orgbdc1850"><span class="todo TODO">TODO</span> 36. Catabolism of the carbon skeletons of amino acids. Glycogenic and ketogenic amino acids. Еssential and nonessential amino acids.</a></li>
-<li><a href="#org2eb03ba"><span class="todo TODO">TODO</span> 37. One-carbon units – types, sources, importance. Role of S-adenosyl-L-methionine and folate derivatives. Therapeutic application of folate analogs.</a></li>
-<li><a href="#orgdb6c976"><span class="todo TODO">TODO</span> 38. Enzymopathies related to amino acids metabolism (phenylketonuria, alkaptonuria, methylmalonic aciduria). Conversion of amino acid to specialized products – NAD+, thyroid hormones, catecholamine hormones, melanins, creatine phosphate. Albinism. Parkinson’s disease.</a></li>
-<li><a href="#org02bb9cf"><span class="todo TODO">TODO</span> 39. Biosynthesis and degradation of purine nucleotides. Regulatory enzymes in the biosynthesis. Purine analogs as antiviral agents. Hyperuricemia due to enzyme defects (gout, Lesch-Nyhan syndrome). Inhibition of xanthine oxidase.</a></li>
-<li><a href="#org7af62b2"><span class="todo TODO">TODO</span> 40. Biosynthesis and degradation of pyrimidine nucleotides. Regulatory enzymes in the biosynthesis. Allosteric modulation and orotic aciduria.</a></li>
-<li><a href="#orgf3d3759"><span class="todo TODO">TODO</span> 41. Structure, role and biosynthesis of porphyrins. Types of porphyrias.</a></li>
-<li><a href="#orgbc11390"><span class="todo TODO">TODO</span> 42. Degradation of haemoglobin. Bile pigments. Enterohepatic cycle of bile pigments. Types of Jaundice.</a></li>
-<li><a href="#orge6e8310"><span class="todo TODO">TODO</span> 43. Integration of metabolism. Links between metabolic pathways of carbohydrates, lipids, amino acids and nucleotides. Role of common metabolites and key enzymes. Tissue and organ specificity. Adaptation in starvation.</a></li>
-<li><a href="#org094e247"><span class="todo TODO">TODO</span> 44. Biosynthesis of DNA – enzymes in prokaryotic and eukaryotic cell, steps. Mechanisms of repair. Drugs that affect replication. Role of tumor suppressor p53. Nonpolyposis colorectal cancer. Xeroderma pigmentosum.</a></li>
-<li><a href="#org79bff66"><span class="todo TODO">TODO</span> 45. Biosynthesis of different types of RNA – enzymes, steps. Processing of RNA molecules. Inhibitors of RNA synthesis. Beta-thalassaemia. Fragile X-chromosome.</a></li>
-<li><a href="#org4b8f9a7"><span class="todo TODO">TODO</span> 46. Genetic code. Biosynthesis of proteins – steps and enzymes. Inhibitors of protein synthesis.</a></li>
-<li><a href="#org8b9f94b"><span class="todo TODO">TODO</span> 47. Regulation of gene expression in prokaryotes (operon model) and in eukaryotes: at the level of DNA, at the level of transcription, at the level of translation and posttranslational regulation.</a></li>
-<li><a href="#org1e9e0ec"><span class="todo TODO">TODO</span> 48. Structure of the prokaryotic and eukaryotic genes.</a></li>
-<li><a href="#org4664a0e"><span class="todo TODO">TODO</span> 49. Recombinant DNA technologies. Recombination of DNA. Role of restriction endonucleases, reverse transcriptase and chemical methods. Identifying DNA sequences – electrophoresis, Southern blot. Amplification of DNA: cloning, polymerase chain reaction (PCR). Dideoxynucleotide method of Sanger for DNA sequencing. Next Generation Sequencing.</a></li>
-<li><a href="#org2a84450"><span class="todo TODO">TODO</span> 50. Application of recombinant DNA technologies in medicine. DNA polymorphisms. Detection of mutations by allele-specific probes and by PCR. Detection of a variable number of tandem repeats. Genetic counselling. Production of vaccines and therapeutic proteins. Gene therapy. Cases in forensic medicine. Transgenic animals. DNA chips in diagnostics.</a></li>
-<li><a href="#org53a8395"><span class="todo TODO">TODO</span> 51. Integrated regulation of metabolism at organism level. Hormones - classification. Molecular mechanisms of steroid hormones.</a></li>
-<li><a href="#org6fc6ff8"><span class="todo TODO">TODO</span> 52. Peptide hormones, growth factors, cytokines. Receptors.</a></li>
-<li><a href="#orgb565b4d"><span class="todo TODO">TODO</span> 53. Transduction systems for peptide hormones, growth factors and cytokines. Second messengers: cAMP and protein kinase A; cGMP and nitric oxide.</a></li>
-<li><a href="#org832e006"><span class="todo TODO">TODO</span> 54. Transduction systems for peptide hormones, growth factors and cytokines. Lipid second messengers. Role of phosphatidylinositol bisphosphate, diacylglycerol, inositol triphosphate and protein kinase C.</a></li>
-<li><a href="#org5d6b334"><span class="todo TODO">TODO</span> 55. Transduction systems for peptide hormones, growth factors and cytokines. Mitogen-activated protein kinase cascade - major mitogenic pathway.</a></li>
-<li><a href="#orgcc96e18"><span class="todo TODO">TODO</span> 56. Transduction systems for peptide hormones, growth factors and cytokines. STAT transduction mechanism. Insulin transduction system.</a></li>
-<li><a href="#org6de7e5c"><span class="todo TODO">TODO</span> 57. Diabetes mellitus – changes in metabolism in type I and type II diabetes. Diabetes type I as autoimmune disease. Mechanism of insulin action. Markers for diagnostics of Diabetes. Complications in type I and type II diabetes mellitus.</a></li>
-<li><a href="#orgccd525c"><span class="todo TODO">TODO</span> 58. Molecular basis of intercellular interactions: recognition, adhesion, intercellular transfer, extracellular matrix. Clinical significance.</a></li>
-<li><a href="#org20802de"><span class="todo TODO">TODO</span> 59. Molecular mechanisms of cell cycle regulation. Disturbances.</a></li>
-<li><a href="#orgadb4db9"><span class="todo TODO">TODO</span> 60. Apoptosis - molecular mechanisms and biological role. Regulation and clinical significance of programmed cell death.</a></li>
-<li><a href="#org6210452"><span class="todo TODO">TODO</span> 61. Molecular mechanisms of oncogenesis: protein kinases, growth factors, oncogenes and protooncogenes. Principles of the personalized medicine.</a></li>
-<li><a href="#orgae056c2"><span class="todo TODO">TODO</span> 62. Water-soluble vitamins. Metabolic role.</a></li>
-<li><a href="#org074bebc"><span class="todo TODO">TODO</span> 63. Lipid-soluble vitamins. Metabolic role.</a></li>
-<li><a href="#org604c98c"><span class="todo TODO">TODO</span> 64. Chemical composition and enzymes of the digestive fluids - saliva, gastric, pancreatic, and intestinal fluid. Degradation of food and uptake of the digested food.</a></li>
-<li><a href="#org25260ed"><span class="todo TODO">TODO</span> 65. Biochemical processes in the liver. Role in degradation of Haemoglobin and formation of bile pigments. Disturbances in metabolism of bile pigments. Excretion of bile acids. Metabolism of iron. Inactivation and detoxification of xenobiotics. Ethanol metabolism.</a></li>
-<li><a href="#org58ae199"><span class="todo TODO">TODO</span> 66. Biochemical characteristics and metabolism of red and white blood cells. Hemoglobinopathies. Diagnostics. Structural similarities between a hemoglobin subunit and myoglobin, important for oxygen binding. Differences in the oxygen saturation curves of myoglobin and hemoglobin. Difference between HbA and HbF.</a></li>
-<li><a href="#orgf21cb77"><span class="todo TODO">TODO</span> 67. Nerve tissue - metabolism and function. Molecular mechanisms of neurotransmission. Neuromediators. Regulation. Age-related changes, degenerative disturbances, opioid abuse, disturbances of cardiac rhythm.</a></li>
-<li><a href="#orgbf8ad1c"><span class="todo TODO">TODO</span> 68. Muscle tissue - metabolism and function. Molecular mechanisms of muscle contraction in skeletal, heart, smooth-muscle and myoepithelial cells. Muscular dystrophies.</a></li>
-<li><a href="#org534de56"><span class="todo TODO">TODO</span> 69. Biochemical processes in epithelial and connective tissue. Elastins. Collagens. Main substance - heteropolysacharides. Defects.</a></li>
-<li><a href="#org9e93ea2"><span class="todo TODO">TODO</span> 70. Metabolism of calcium and phosphorus. Regulation. Bone formation. Osteoporosis and hormone replacement therapy.</a></li>
+<li><a href="#orgf99babc">Home Page</a></li>
+<li><a href="#orgcc18582"><span class="todo TODO">TODO</span> 1. Contemporary Biochemistry – basis for understanding metabolism in health and disease. Subject, objectives and scope of Biochemistry. Relationship between Biochemistry and other biomedical disciplines stimulates mutual advances. Biochemical investigations – necessary for diagnosis, prognosis and therapy. Examples: galactosemia, myocardial infarction.</a></li>
+<li><a href="#org83f4d68"><span class="todo TODO">TODO</span> 2. Proteins: significance, amino acid composition, classification of amino acids based on the chemical structure and polarity of the side chains. Covalent bonds and noncovalent interactions in the protein molecule. Characteristic features of the polypeptide chains. Primary structure. Differences in the primary structure of hemoglobin A and S. Insulin and diabetes mellitus. Primary structure of insulin in different species.</a></li>
+<li><a href="#org44f8098"><span class="todo TODO">TODO</span> 3. Secondary, tertiary and quaternary structure of proteins. Globular and fibrous proteins. Structure and function of hemoglobin. Glycated hemoglobin. Defects in collagen biosynthesis – scurvy. Denaturation and renaturation. Sickle cell anemia. Prion diseases. Relationship between protein structure and function.</a></li>
+<li><a href="#org153bf0f"><span class="todo TODO">TODO</span> 4. Charge properties of the amino acids and proteins. Electrophoresis. Electrophoretic profiles of serum proteins, role for diagnostics. Chromatographic techniques. Principles of quality and quantity analysis of proteins. Phenylketonuria.</a></li>
+<li><a href="#orgeb0c653"><span class="todo TODO">TODO</span> 5. Nucleic acids – types and biological role. Chemical composition, chemical bonds within nucleotides and between them. Free nucleotides with important biological action. Characteristics of the polynucleotide chains. Purine and pyrimidine analogs as anticancer and antimicrobial agents.</a></li>
+<li><a href="#org4355c31"><span class="todo TODO">TODO</span> 6. Primary structure of nucleic acids. Conformation of DNA and different RNAs. Types of RNA and their biological significance. Electrophoretic methods for investigation of DNA and RNA. Sickle cell anemia and phenylketonuria – examples for molecular diseases.</a></li>
+<li><a href="#orgf90eaac"><span class="todo TODO">TODO</span> 7. Characteristics of the enzymes as biological catalysts. Coenzymes and prosthetic groups. Nomenclature and classification of enzymes. Mechanism of enzyme catalysis. Enzyme-substrate complex. Active cite. Enzyme specificity.</a></li>
+<li><a href="#org81c591e"><span class="todo TODO">TODO</span> 8. Enzyme kinetics. Michaelis-Menten equation – effect of the substrate concentration and the enzyme concentration on the velocity of the enzyme-catalyzed reaction. Enzyme units. Evaluation of the kinetic parameters Vmax and Km via the Lineweaver-Burk plot. Kinetic characteristics of phosphoribosyl pyrophosphate synthetase in cases of gout. Increased sensitivity to ethanol due to increased Km of acetaldehyde dehydrogenase.</a></li>
+<li><a href="#org4139cb4"><span class="todo TODO">TODO</span> 9. Effect of pH and temperature on the velocity of enzyme-catalyzed reactions. Changes in the pH optimum of alcohol dehydrogenase and acetaldehyde dehydrogenase in high ethanol sensitivity. Regulation of enzyme activity. Competitive and noncompetitive inhibitors. Antimetabolites. Activators. Allosteric regulation. Goat in allosteric center defects of glutamine-PRPP-amidotransferase. Orotaturia.</a></li>
+<li><a href="#orgaa0664b"><span class="todo TODO">TODO</span> 10. Phosphorylation and dephosphorylation – major regulatory mechanism in the cell. Protein kinases and protein phosphatases - classification. Cascade for regulation of glycogen phosphorylase and glycogen synthase.</a></li>
+<li><a href="#orge3c94f9"><span class="todo TODO">TODO</span> 11. Importance of enzymes for the clinical practice. Isozymes. Electrophoresis of lactate dehydrogenase isozymes. Increase in the levels of nonfunctional plasma enzymes (in myocardial infarction and hepatitis). Changes in functional plasma enzymes. Genetically determined enzymopathies (cases of gout, Lesch-Nyhan syndrome). Enzymes in therapy (in myocardial infarction). Restriction endonucleases.</a></li>
+<li><a href="#org77f784b"><span class="todo TODO">TODO</span> 12. Compartmentalization of metabolic processes. Metabolic pathways – types, biomedical significance. Characteristics of the living organisms as open chemical systems. Coupling of endergonic and exergonic processes via high-energy compounds. Types of high-energy compounds. Central role of the system ATP/ADP in energy transfer.</a></li>
+<li><a href="#orgc02b4b0"><span class="todo TODO">TODO</span> 13. Characteristics of biological oxidation. Substrates of biological oxidation and ultimate acceptors of hydrogen. Oxido-reductases, important redox-systems: NAD+/NADН+H+, NADP+/NADPН+H+,FMN/FMN.Н2, FAD/FAD.Н2, CoQ/CoQ.H2, heme of cytochromes, lipoate, ascorbate.</a></li>
+<li><a href="#orgad9ef0a"><span class="todo TODO">TODO</span> 14. Oxidative phosphorylation at substrate level: oxidative phosphorylation of glyceraldehyde 3-phosphate, enolase reaction, oxidative decarboxylation of α-keto acids (pyruvate dehydrogenase complex, role of the cofactors TPP, lipoate, CoA, FAD and NAD+). Beri-beri.</a></li>
+<li><a href="#orge562dba"><span class="todo TODO">TODO</span> 15. Respiratory chain – localization, function and molecular structure. Sites for proton translocation. Coefficient of oxidative phosphorylation (P/O). Respiratory control, phosphate potential. Inhibitors of electron transfer: barbiturates, antimycin A, КCN. Dangerous combination of barbiturates and alcohol. Mitochondrial diseases.</a></li>
+<li><a href="#org4e18467"><span class="todo TODO">TODO</span> 16. Chemiosmotic theory for the mechanism of the oxidative phosphorylation in the respiratory chain. ATP synthase. Effect of uncouplers (2,4-dinitrophenol). Natural uncouplers. Inhibitors of oxidative phosphorylation (oligomycin).</a></li>
+<li><a href="#orgd6bf381"><span class="todo TODO">TODO</span> 17. Uncoupled oxidation. Heat production. Role of thermogenin in mitochondria of brown adipose tissue. Electron transfer in the endoplasmic reticulum. Formation and detoxifying of reactive oxygen intermediates: superoxide, H2O2 and free hydroxyl radical.</a></li>
+<li><a href="#org54dc366"><span class="todo TODO">TODO</span> 18. Citric acid cycle – importance for catabolism and anabolism. Chemical reactions. Metabolic and energy balance. Mechanisms of regulation. Anaplerotic reactions. Pyruvate dehydrogenase deficiency.</a></li>
+<li><a href="#org0f622eb"><span class="todo TODO">TODO</span> 19. Glycolysis – importance, chemical reactions, energy balance at anaerobic and aerobic conditions. Tissue specificity of glycolysis. Metabolic fate of NADH+H+, lactate and pyruvate. Relations between glycolysis and respiratory chains – shuttle mechanisms for transfer of hydrogen from the cytoplasm into mitochondria (malate and glycerophosphate shuttles). Pasteur effect. Links with the citric acid cycle. Lactic acidosis. Hemolytic anemia due to pyruvate kinase deficiency.</a></li>
+<li><a href="#org1c07b69"><span class="todo TODO">TODO</span> 20. Gluconeogenesis. Importance. Circumvention of the three irreversible steps in glycolysis. Regulation of gluconeogenesis. Fructose-1,6-bisphosphatase deficiency, hypoglycemia and prematurely born infants, hypoglycemia and alcohol intoxication.</a></li>
+<li><a href="#org7f155a0"><span class="todo TODO">TODO</span> 21. The pentose phosphate pathway. Importance. Oxidative, isomerase and transferase reactions. Glucose- 6-phospate dehydrogenase deficiency.</a></li>
+<li><a href="#orgd3e84de"><span class="todo TODO">TODO</span> 22. Metabolism of galactose, fructose and mannose. Galactosemia (type I and II). Essential fructosuria. Fructose intolerance.</a></li>
+<li><a href="#orgb23f405"><span class="todo TODO">TODO</span> 23. Glycogen – structure, hydrolytic and phosphorolitic degradation, synthesis. Regulation of glycogenolysis and glycogen synthesis. Glycogen storage diseases.</a></li>
+<li><a href="#org32710f1"><span class="todo TODO">TODO</span> 24. Regulation of carbohydrate metabolism and blood glucose level. Role of different tissues and organs. The Cori cycle. Regulatory enzymes and hormones.</a></li>
+<li><a href="#org18722b0"><span class="todo TODO">TODO</span> 25. Lipids – classification. Oxidation of fatty acids with an even and odd number of carbon atoms. Energy balance. Enzyme deficiencies in the beta-oxidation.</a></li>
+<li><a href="#orgd506a8b"><span class="todo TODO">TODO</span> 26. Biosynthesis of fatty acids. Acetyl-CoA carboxylase. Fatty acyl synthase – multifunctional enzyme. Regulation.</a></li>
+<li><a href="#orgaac4eb2"><span class="todo TODO">TODO</span> 27. Desaturation of fatty acids. Deficit of essential fatty acids. Eicosanoids – major classes and biological role. Catabolism and biosynthesis of triacylglycerols. Hormone sensitive lipase. Metabolism of glycerol.</a></li>
+<li><a href="#orgd158179"><span class="todo TODO">TODO</span> 28. Metabolism (degradation and synthesis) of glycerophosphatides. Phospholipases A1, A2, C and D. Sphingolipids – types, structure and significance. Sphingolipidoses.</a></li>
+<li><a href="#org5e5c659"><span class="todo TODO">TODO</span> 29. Ketogenesis. Utilization and oxidation of ketone bodies in extrahepatic tissues. Ketonemia and ketonuria. Ketoacidosis in starvation and in Diabetes Mellitus.</a></li>
+<li><a href="#orge35ae1c"><span class="todo TODO">TODO</span> 30. Structure, role and synthesis of cholesterol. Regulation. Excretion from the body.</a></li>
+<li><a href="#org8c365a8"><span class="todo TODO">TODO</span> 31. Derivatives of cholesterol (steroid hormones, vitamin D, bile acids) – structure and biological role. Enterohepatic circulation of bile acids. Rickets.</a></li>
+<li><a href="#org719aa74"><span class="todo TODO">TODO</span> 32. Transport of lipids in organism. Types - composition, origin and functions of lipoprotein complexes. Role of proteins in lipoproteins. Formation, degradation and conversion of lipoproteins. Receptors for lipoproteins. Familiar hypercholesterolemia.</a></li>
+<li><a href="#org68cb280"><span class="todo TODO">TODO</span> 33. Obesity. Role of leptin. Fatty liver. Atherosclerosis, tissue ischemia and myocardial infarction. Cholelithiasis.</a></li>
+<li><a href="#orgfec8422"><span class="todo TODO">TODO</span> 34. General reactions of amino acid catabolism: oxidative deamination, transamination, transdeamination. Clinical importance of aminotransferases. Decarboxylation of amino acids. Biological amines. Parkinson’s disease.</a></li>
+<li><a href="#org39eb08a"><span class="todo TODO">TODO</span> 35. Detoxification of ammonia. Synthesis of glutamate and glutamine. Urea cycle and ammoniagenesis. Links to citric acid cycle. Glucose-alanine cycle. Enzyme defects.</a></li>
+<li><a href="#orgd91d800"><span class="todo TODO">TODO</span> 36. Catabolism of the carbon skeletons of amino acids. Glycogenic and ketogenic amino acids. Еssential and nonessential amino acids.</a></li>
+<li><a href="#org2a88241"><span class="todo TODO">TODO</span> 37. One-carbon units – types, sources, importance. Role of S-adenosyl-L-methionine and folate derivatives. Therapeutic application of folate analogs.</a></li>
+<li><a href="#org34fad37"><span class="todo TODO">TODO</span> 38. Enzymopathies related to amino acids metabolism (phenylketonuria, alkaptonuria, methylmalonic aciduria). Conversion of amino acid to specialized products – NAD+, thyroid hormones, catecholamine hormones, melanins, creatine phosphate. Albinism. Parkinson’s disease.</a></li>
+<li><a href="#org3eb88b6"><span class="todo TODO">TODO</span> 39. Biosynthesis and degradation of purine nucleotides. Regulatory enzymes in the biosynthesis. Purine analogs as antiviral agents. Hyperuricemia due to enzyme defects (gout, Lesch-Nyhan syndrome). Inhibition of xanthine oxidase.</a></li>
+<li><a href="#orgfa86ee8"><span class="todo TODO">TODO</span> 40. Biosynthesis and degradation of pyrimidine nucleotides. Regulatory enzymes in the biosynthesis. Allosteric modulation and orotic aciduria.</a></li>
+<li><a href="#org6f3a69f"><span class="todo TODO">TODO</span> 41. Structure, role and biosynthesis of porphyrins. Types of porphyrias.</a></li>
+<li><a href="#orgf4043e9"><span class="todo TODO">TODO</span> 42. Degradation of haemoglobin. Bile pigments. Enterohepatic cycle of bile pigments. Types of Jaundice.</a></li>
+<li><a href="#org836b1e9"><span class="todo TODO">TODO</span> 43. Integration of metabolism. Links between metabolic pathways of carbohydrates, lipids, amino acids and nucleotides. Role of common metabolites and key enzymes. Tissue and organ specificity. Adaptation in starvation.</a></li>
+<li><a href="#org64c3de6"><span class="todo TODO">TODO</span> 44. Biosynthesis of DNA – enzymes in prokaryotic and eukaryotic cell, steps. Mechanisms of repair. Drugs that affect replication. Role of tumor suppressor p53. Nonpolyposis colorectal cancer. Xeroderma pigmentosum.</a></li>
+<li><a href="#orgfd29ddf"><span class="todo TODO">TODO</span> 45. Biosynthesis of different types of RNA – enzymes, steps. Processing of RNA molecules. Inhibitors of RNA synthesis. Beta-thalassaemia. Fragile X-chromosome.</a></li>
+<li><a href="#orgf2b4380"><span class="todo TODO">TODO</span> 46. Genetic code. Biosynthesis of proteins – steps and enzymes. Inhibitors of protein synthesis.</a></li>
+<li><a href="#orgf9de32d"><span class="todo TODO">TODO</span> 47. Regulation of gene expression in prokaryotes (operon model) and in eukaryotes: at the level of DNA, at the level of transcription, at the level of translation and posttranslational regulation.</a></li>
+<li><a href="#org02614a4"><span class="todo TODO">TODO</span> 48. Structure of the prokaryotic and eukaryotic genes.</a></li>
+<li><a href="#org6c752de"><span class="todo TODO">TODO</span> 49. Recombinant DNA technologies. Recombination of DNA. Role of restriction endonucleases, reverse transcriptase and chemical methods. Identifying DNA sequences – electrophoresis, Southern blot. Amplification of DNA: cloning, polymerase chain reaction (PCR). Dideoxynucleotide method of Sanger for DNA sequencing. Next Generation Sequencing.</a></li>
+<li><a href="#orgcc6a2c6"><span class="todo TODO">TODO</span> 50. Application of recombinant DNA technologies in medicine. DNA polymorphisms. Detection of mutations by allele-specific probes and by PCR. Detection of a variable number of tandem repeats. Genetic counselling. Production of vaccines and therapeutic proteins. Gene therapy. Cases in forensic medicine. Transgenic animals. DNA chips in diagnostics.</a></li>
+<li><a href="#org9cb0495"><span class="todo TODO">TODO</span> 51. Integrated regulation of metabolism at organism level. Hormones - classification. Molecular mechanisms of steroid hormones.</a></li>
+<li><a href="#org7392015"><span class="todo TODO">TODO</span> 52. Peptide hormones, growth factors, cytokines. Receptors.</a></li>
+<li><a href="#org12b72ad"><span class="todo TODO">TODO</span> 53. Transduction systems for peptide hormones, growth factors and cytokines. Second messengers: cAMP and protein kinase A; cGMP and nitric oxide.</a></li>
+<li><a href="#org6575f13"><span class="todo TODO">TODO</span> 54. Transduction systems for peptide hormones, growth factors and cytokines. Lipid second messengers. Role of phosphatidylinositol bisphosphate, diacylglycerol, inositol triphosphate and protein kinase C.</a></li>
+<li><a href="#org0aecb6b"><span class="todo TODO">TODO</span> 55. Transduction systems for peptide hormones, growth factors and cytokines. Mitogen-activated protein kinase cascade - major mitogenic pathway.</a></li>
+<li><a href="#orge6ceea9"><span class="todo TODO">TODO</span> 56. Transduction systems for peptide hormones, growth factors and cytokines. STAT transduction mechanism. Insulin transduction system.</a></li>
+<li><a href="#org2fa53c3"><span class="todo TODO">TODO</span> 57. Diabetes mellitus – changes in metabolism in type I and type II diabetes. Diabetes type I as autoimmune disease. Mechanism of insulin action. Markers for diagnostics of Diabetes. Complications in type I and type II diabetes mellitus.</a></li>
+<li><a href="#org2a7ca5f"><span class="todo TODO">TODO</span> 58. Molecular basis of intercellular interactions: recognition, adhesion, intercellular transfer, extracellular matrix. Clinical significance.</a></li>
+<li><a href="#org822a0f6"><span class="todo TODO">TODO</span> 59. Molecular mechanisms of cell cycle regulation. Disturbances.</a></li>
+<li><a href="#orge682ff6"><span class="todo TODO">TODO</span> 60. Apoptosis - molecular mechanisms and biological role. Regulation and clinical significance of programmed cell death.</a></li>
+<li><a href="#org825620e"><span class="todo TODO">TODO</span> 61. Molecular mechanisms of oncogenesis: protein kinases, growth factors, oncogenes and protooncogenes. Principles of the personalized medicine.</a></li>
+<li><a href="#orgb8b9c60"><span class="todo TODO">TODO</span> 62. Water-soluble vitamins. Metabolic role.</a></li>
+<li><a href="#org08a3176"><span class="todo TODO">TODO</span> 63. Lipid-soluble vitamins. Metabolic role.</a></li>
+<li><a href="#org191b3cc"><span class="todo TODO">TODO</span> 64. Chemical composition and enzymes of the digestive fluids - saliva, gastric, pancreatic, and intestinal fluid. Degradation of food and uptake of the digested food.</a></li>
+<li><a href="#orgb280b08"><span class="todo TODO">TODO</span> 65. Biochemical processes in the liver. Role in degradation of Haemoglobin and formation of bile pigments. Disturbances in metabolism of bile pigments. Excretion of bile acids. Metabolism of iron. Inactivation and detoxification of xenobiotics. Ethanol metabolism.</a></li>
+<li><a href="#orgda70f0e"><span class="todo TODO">TODO</span> 66. Biochemical characteristics and metabolism of red and white blood cells. Hemoglobinopathies. Diagnostics. Structural similarities between a hemoglobin subunit and myoglobin, important for oxygen binding. Differences in the oxygen saturation curves of myoglobin and hemoglobin. Difference between HbA and HbF.</a></li>
+<li><a href="#orgd8d56c8"><span class="todo TODO">TODO</span> 67. Nerve tissue - metabolism and function. Molecular mechanisms of neurotransmission. Neuromediators. Regulation. Age-related changes, degenerative disturbances, opioid abuse, disturbances of cardiac rhythm.</a></li>
+<li><a href="#orgc1386a7"><span class="todo TODO">TODO</span> 68. Muscle tissue - metabolism and function. Molecular mechanisms of muscle contraction in skeletal, heart, smooth-muscle and myoepithelial cells. Muscular dystrophies.</a></li>
+<li><a href="#orgc543811"><span class="todo TODO">TODO</span> 69. Biochemical processes in epithelial and connective tissue. Elastins. Collagens. Main substance - heteropolysacharides. Defects.</a></li>
+<li><a href="#org727250c"><span class="todo TODO">TODO</span> 70. Metabolism of calcium and phosphorus. Regulation. Bone formation. Osteoporosis and hormone replacement therapy.</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgcde5849" class="outline-2">
-<h2 id="orgcde5849"><a href="https://thanosapollo.com">Home Page</a></h2>
+<div id="outline-container-orgf99babc" class="outline-2">
+<h2 id="orgf99babc"><a href="https://thanosapollo.com">Home Page</a></h2>
 </div>
-<div id="outline-container-org8a0a3fe" class="outline-2">
-<h2 id="org8a0a3fe"><span class="todo TODO">TODO</span> 1. Contemporary Biochemistry – basis for understanding metabolism in health and disease. Subject, objectives and scope of Biochemistry. Relationship between Biochemistry and other biomedical disciplines stimulates mutual advances. Biochemical investigations – necessary for diagnosis, prognosis and therapy. Examples: galactosemia, myocardial infarction.</h2>
+<div id="outline-container-orgcc18582" class="outline-2">
+<h2 id="orgcc18582"><span class="todo TODO">TODO</span> 1. Contemporary Biochemistry – basis for understanding metabolism in health and disease. Subject, objectives and scope of Biochemistry. Relationship between Biochemistry and other biomedical disciplines stimulates mutual advances. Biochemical investigations – necessary for diagnosis, prognosis and therapy. Examples: galactosemia, myocardial infarction.</h2>
 </div>
-<div id="outline-container-orge8e83e6" class="outline-2">
-<h2 id="orge8e83e6"><span class="todo TODO">TODO</span> 2. Proteins: significance, amino acid composition, classification of amino acids based on the chemical structure and polarity of the side chains. Covalent bonds and noncovalent interactions in the protein molecule. Characteristic features of the polypeptide chains. Primary structure. Differences in the primary structure of hemoglobin A and S. Insulin and diabetes mellitus. Primary structure of insulin in different species.</h2>
+<div id="outline-container-org83f4d68" class="outline-2">
+<h2 id="org83f4d68"><span class="todo TODO">TODO</span> 2. Proteins: significance, amino acid composition, classification of amino acids based on the chemical structure and polarity of the side chains. Covalent bonds and noncovalent interactions in the protein molecule. Characteristic features of the polypeptide chains. Primary structure. Differences in the primary structure of hemoglobin A and S. Insulin and diabetes mellitus. Primary structure of insulin in different species.</h2>
 </div>
-<div id="outline-container-org45835fb" class="outline-2">
-<h2 id="org45835fb"><span class="todo TODO">TODO</span> 3. Secondary, tertiary and quaternary structure of proteins. Globular and fibrous proteins. Structure and function of hemoglobin. Glycated hemoglobin. Defects in collagen biosynthesis – scurvy. Denaturation and renaturation. Sickle cell anemia. Prion diseases. Relationship between protein structure and function.</h2>
+<div id="outline-container-org44f8098" class="outline-2">
+<h2 id="org44f8098"><span class="todo TODO">TODO</span> 3. Secondary, tertiary and quaternary structure of proteins. Globular and fibrous proteins. Structure and function of hemoglobin. Glycated hemoglobin. Defects in collagen biosynthesis – scurvy. Denaturation and renaturation. Sickle cell anemia. Prion diseases. Relationship between protein structure and function.</h2>
 </div>
-<div id="outline-container-org2bcb61e" class="outline-2">
-<h2 id="org2bcb61e"><span class="todo TODO">TODO</span> 4. Charge properties of the amino acids and proteins. Electrophoresis. Electrophoretic profiles of serum proteins, role for diagnostics. Chromatographic techniques. Principles of quality and quantity analysis of proteins. Phenylketonuria.</h2>
+<div id="outline-container-org153bf0f" class="outline-2">
+<h2 id="org153bf0f"><span class="todo TODO">TODO</span> 4. Charge properties of the amino acids and proteins. Electrophoresis. Electrophoretic profiles of serum proteins, role for diagnostics. Chromatographic techniques. Principles of quality and quantity analysis of proteins. Phenylketonuria.</h2>
 </div>
-<div id="outline-container-org5449107" class="outline-2">
-<h2 id="org5449107"><span class="todo TODO">TODO</span> 5. Nucleic acids – types and biological role. Chemical composition, chemical bonds within nucleotides and between them. Free nucleotides with important biological action. Characteristics of the polynucleotide chains. Purine and pyrimidine analogs as anticancer and antimicrobial agents.</h2>
+<div id="outline-container-orgeb0c653" class="outline-2">
+<h2 id="orgeb0c653"><span class="todo TODO">TODO</span> 5. Nucleic acids – types and biological role. Chemical composition, chemical bonds within nucleotides and between them. Free nucleotides with important biological action. Characteristics of the polynucleotide chains. Purine and pyrimidine analogs as anticancer and antimicrobial agents.</h2>
 </div>
-<div id="outline-container-orga630560" class="outline-2">
-<h2 id="orga630560"><span class="todo TODO">TODO</span> 6. Primary structure of nucleic acids. Conformation of DNA and different RNAs. Types of RNA and their biological significance. Electrophoretic methods for investigation of DNA and RNA. Sickle cell anemia and phenylketonuria – examples for molecular diseases.</h2>
+<div id="outline-container-org4355c31" class="outline-2">
+<h2 id="org4355c31"><span class="todo TODO">TODO</span> 6. Primary structure of nucleic acids. Conformation of DNA and different RNAs. Types of RNA and their biological significance. Electrophoretic methods for investigation of DNA and RNA. Sickle cell anemia and phenylketonuria – examples for molecular diseases.</h2>
 </div>
-<div id="outline-container-org0908a99" class="outline-2">
-<h2 id="org0908a99"><span class="todo TODO">TODO</span> 7. Characteristics of the enzymes as biological catalysts. Coenzymes and prosthetic groups. Nomenclature and classification of enzymes. Mechanism of enzyme catalysis. Enzyme-substrate complex. Active cite. Enzyme specificity.</h2>
+<div id="outline-container-orgf90eaac" class="outline-2">
+<h2 id="orgf90eaac"><span class="todo TODO">TODO</span> 7. Characteristics of the enzymes as biological catalysts. Coenzymes and prosthetic groups. Nomenclature and classification of enzymes. Mechanism of enzyme catalysis. Enzyme-substrate complex. Active cite. Enzyme specificity.</h2>
 </div>
-<div id="outline-container-org7ce5f5d" class="outline-2">
-<h2 id="org7ce5f5d"><span class="todo TODO">TODO</span> 8. Enzyme kinetics. Michaelis-Menten equation – effect of the substrate concentration and the enzyme concentration on the velocity of the enzyme-catalyzed reaction. Enzyme units. Evaluation of the kinetic parameters Vmax and Km via the Lineweaver-Burk plot. Kinetic characteristics of phosphoribosyl pyrophosphate synthetase in cases of gout. Increased sensitivity to ethanol due to increased Km of acetaldehyde dehydrogenase.</h2>
+<div id="outline-container-org81c591e" class="outline-2">
+<h2 id="org81c591e"><span class="todo TODO">TODO</span> 8. Enzyme kinetics. Michaelis-Menten equation – effect of the substrate concentration and the enzyme concentration on the velocity of the enzyme-catalyzed reaction. Enzyme units. Evaluation of the kinetic parameters Vmax and Km via the Lineweaver-Burk plot. Kinetic characteristics of phosphoribosyl pyrophosphate synthetase in cases of gout. Increased sensitivity to ethanol due to increased Km of acetaldehyde dehydrogenase.</h2>
 </div>
-<div id="outline-container-org5cea989" class="outline-2">
-<h2 id="org5cea989"><span class="todo TODO">TODO</span> 9. Effect of pH and temperature on the velocity of enzyme-catalyzed reactions. Changes in the pH optimum of alcohol dehydrogenase and acetaldehyde dehydrogenase in high ethanol sensitivity. Regulation of enzyme activity. Competitive and noncompetitive inhibitors. Antimetabolites. Activators. Allosteric regulation. Goat in allosteric center defects of glutamine-PRPP-amidotransferase. Orotaturia.</h2>
+<div id="outline-container-org4139cb4" class="outline-2">
+<h2 id="org4139cb4"><span class="todo TODO">TODO</span> 9. Effect of pH and temperature on the velocity of enzyme-catalyzed reactions. Changes in the pH optimum of alcohol dehydrogenase and acetaldehyde dehydrogenase in high ethanol sensitivity. Regulation of enzyme activity. Competitive and noncompetitive inhibitors. Antimetabolites. Activators. Allosteric regulation. Goat in allosteric center defects of glutamine-PRPP-amidotransferase. Orotaturia.</h2>
 </div>
-<div id="outline-container-orga13e850" class="outline-2">
-<h2 id="orga13e850"><span class="todo TODO">TODO</span> 10. Phosphorylation and dephosphorylation – major regulatory mechanism in the cell. Protein kinases and protein phosphatases - classification. Cascade for regulation of glycogen phosphorylase and glycogen synthase.</h2>
+<div id="outline-container-orgaa0664b" class="outline-2">
+<h2 id="orgaa0664b"><span class="todo TODO">TODO</span> 10. Phosphorylation and dephosphorylation – major regulatory mechanism in the cell. Protein kinases and protein phosphatases - classification. Cascade for regulation of glycogen phosphorylase and glycogen synthase.</h2>
 </div>
-<div id="outline-container-org2c9de2c" class="outline-2">
-<h2 id="org2c9de2c"><span class="todo TODO">TODO</span> 11. Importance of enzymes for the clinical practice. Isozymes. Electrophoresis of lactate dehydrogenase isozymes. Increase in the levels of nonfunctional plasma enzymes (in myocardial infarction and hepatitis). Changes in functional plasma enzymes. Genetically determined enzymopathies (cases of gout, Lesch-Nyhan syndrome). Enzymes in therapy (in myocardial infarction). Restriction endonucleases.</h2>
+<div id="outline-container-orge3c94f9" class="outline-2">
+<h2 id="orge3c94f9"><span class="todo TODO">TODO</span> 11. Importance of enzymes for the clinical practice. Isozymes. Electrophoresis of lactate dehydrogenase isozymes. Increase in the levels of nonfunctional plasma enzymes (in myocardial infarction and hepatitis). Changes in functional plasma enzymes. Genetically determined enzymopathies (cases of gout, Lesch-Nyhan syndrome). Enzymes in therapy (in myocardial infarction). Restriction endonucleases.</h2>
 </div>
-<div id="outline-container-org8a2388d" class="outline-2">
-<h2 id="org8a2388d"><span class="todo TODO">TODO</span> 12. Compartmentalization of metabolic processes. Metabolic pathways – types, biomedical significance. Characteristics of the living organisms as open chemical systems. Coupling of endergonic and exergonic processes via high-energy compounds. Types of high-energy compounds. Central role of the system ATP/ADP in energy transfer.</h2>
+<div id="outline-container-org77f784b" class="outline-2">
+<h2 id="org77f784b"><span class="todo TODO">TODO</span> 12. Compartmentalization of metabolic processes. Metabolic pathways – types, biomedical significance. Characteristics of the living organisms as open chemical systems. Coupling of endergonic and exergonic processes via high-energy compounds. Types of high-energy compounds. Central role of the system ATP/ADP in energy transfer.</h2>
 </div>
-<div id="outline-container-org637a47a" class="outline-2">
-<h2 id="org637a47a"><span class="todo TODO">TODO</span> 13. Characteristics of biological oxidation. Substrates of biological oxidation and ultimate acceptors of hydrogen. Oxido-reductases, important redox-systems: NAD+/NADН+H+, NADP+/NADPН+H+,FMN/FMN.Н2, FAD/FAD.Н2, CoQ/CoQ.H2, heme of cytochromes, lipoate, ascorbate.</h2>
+<div id="outline-container-orgc02b4b0" class="outline-2">
+<h2 id="orgc02b4b0"><span class="todo TODO">TODO</span> 13. Characteristics of biological oxidation. Substrates of biological oxidation and ultimate acceptors of hydrogen. Oxido-reductases, important redox-systems: NAD+/NADН+H+, NADP+/NADPН+H+,FMN/FMN.Н2, FAD/FAD.Н2, CoQ/CoQ.H2, heme of cytochromes, lipoate, ascorbate.</h2>
 </div>
-<div id="outline-container-org0d9c93a" class="outline-2">
-<h2 id="org0d9c93a"><span class="todo TODO">TODO</span> 14. Oxidative phosphorylation at substrate level: oxidative phosphorylation of glyceraldehyde 3-phosphate, enolase reaction, oxidative decarboxylation of α-keto acids (pyruvate dehydrogenase complex, role of the cofactors TPP, lipoate, CoA, FAD and NAD+). Beri-beri.</h2>
-</div>
-
-<div id="outline-container-orgb691adc" class="outline-2">
-<h2 id="orgb691adc"><span class="todo TODO">TODO</span> 15. Respiratory chain – localization, function and molecular structure. Sites for proton translocation. Coefficient of oxidative phosphorylation (P/O). Respiratory control, phosphate potential. Inhibitors of electron transfer: barbiturates, antimycin A, КCN. Dangerous combination of barbiturates and alcohol. Mitochondrial diseases.</h2>
-</div>
-<div id="outline-container-org2d1f212" class="outline-2">
-<h2 id="org2d1f212"><span class="todo TODO">TODO</span> 16. Chemiosmotic theory for the mechanism of the oxidative phosphorylation in the respiratory chain. ATP synthase. Effect of uncouplers (2,4-dinitrophenol). Natural uncouplers. Inhibitors of oxidative phosphorylation (oligomycin).</h2>
-</div>
-<div id="outline-container-orgc1160be" class="outline-2">
-<h2 id="orgc1160be"><span class="todo TODO">TODO</span> 17. Uncoupled oxidation. Heat production. Role of thermogenin in mitochondria of brown adipose tissue. Electron transfer in the endoplasmic reticulum. Formation and detoxifying of reactive oxygen intermediates: superoxide, H2O2 and free hydroxyl radical.</h2>
-</div>
-<div id="outline-container-orgdc3d38d" class="outline-2">
-<h2 id="orgdc3d38d"><span class="todo TODO">TODO</span> 18. Citric acid cycle – importance for catabolism and anabolism. Chemical reactions. Metabolic and energy balance. Mechanisms of regulation. Anaplerotic reactions. Pyruvate dehydrogenase deficiency.</h2>
-</div>
-<div id="outline-container-org82ce888" class="outline-2">
-<h2 id="org82ce888"><span class="todo TODO">TODO</span> 19. Glycolysis – importance, chemical reactions, energy balance at anaerobic and aerobic conditions. Tissue specificity of glycolysis. Metabolic fate of NADH+H+, lactate and pyruvate. Relations between glycolysis and respiratory chains – shuttle mechanisms for transfer of hydrogen from the cytoplasm into mitochondria (malate and glycerophosphate shuttles). Pasteur effect. Links with the citric acid cycle. Lactic acidosis. Hemolytic anemia due to pyruvate kinase deficiency.</h2>
-</div>
-<div id="outline-container-org4665474" class="outline-2">
-<h2 id="org4665474"><span class="todo TODO">TODO</span> 20. Gluconeogenesis. Importance. Circumvention of the three irreversible steps in glycolysis. Regulation of gluconeogenesis. Fructose-1,6-bisphosphatase deficiency, hypoglycemia and prematurely born infants, hypoglycemia and alcohol intoxication.</h2>
-</div>
-<div id="outline-container-org0bb6457" class="outline-2">
-<h2 id="org0bb6457"><span class="todo TODO">TODO</span> 21. The pentose phosphate pathway. Importance. Oxidative, isomerase and transferase reactions. Glucose- 6-phospate dehydrogenase deficiency.</h2>
-</div>
-<div id="outline-container-org5c2bbd4" class="outline-2">
-<h2 id="org5c2bbd4"><span class="todo TODO">TODO</span> 22. Metabolism of galactose, fructose and mannose. Galactosemia (type I and II). Essential fructosuria. Fructose intolerance.</h2>
-</div>
-<div id="outline-container-org73ae447" class="outline-2">
-<h2 id="org73ae447"><span class="todo TODO">TODO</span> 23. Glycogen – structure, hydrolytic and phosphorolitic degradation, synthesis. Regulation of glycogenolysis and glycogen synthesis. Glycogen storage diseases.</h2>
-</div>
-<div id="outline-container-orgc355f3b" class="outline-2">
-<h2 id="orgc355f3b"><span class="todo TODO">TODO</span> 24. Regulation of carbohydrate metabolism and blood glucose level. Role of different tissues and organs. The Cori cycle. Regulatory enzymes and hormones.</h2>
-</div>
-<div id="outline-container-orgb5660cc" class="outline-2">
-<h2 id="orgb5660cc"><span class="todo TODO">TODO</span> 25. Lipids – classification. Oxidation of fatty acids with an even and odd number of carbon atoms. Energy balance. Enzyme deficiencies in the beta-oxidation.</h2>
-</div>
-<div id="outline-container-org00f1be4" class="outline-2">
-<h2 id="org00f1be4"><span class="todo TODO">TODO</span> 26. Biosynthesis of fatty acids. Acetyl-CoA carboxylase. Fatty acyl synthase – multifunctional enzyme. Regulation.</h2>
-</div>
-<div id="outline-container-orgc505e8e" class="outline-2">
-<h2 id="orgc505e8e"><span class="todo TODO">TODO</span> 27. Desaturation of fatty acids. Deficit of essential fatty acids. Eicosanoids – major classes and biological role. Catabolism and biosynthesis of triacylglycerols. Hormone sensitive lipase. Metabolism of glycerol.</h2>
-</div>
-<div id="outline-container-orgc4305d3" class="outline-2">
-<h2 id="orgc4305d3"><span class="todo TODO">TODO</span> 28. Metabolism (degradation and synthesis) of glycerophosphatides. Phospholipases A1, A2, C and D. Sphingolipids – types, structure and significance. Sphingolipidoses.</h2>
-</div>
-<div id="outline-container-org8c6097c" class="outline-2">
-<h2 id="org8c6097c"><span class="todo TODO">TODO</span> 29. Ketogenesis. Utilization and oxidation of ketone bodies in extrahepatic tissues. Ketonemia and ketonuria. Ketoacidosis in starvation and in Diabetes Mellitus.</h2>
-</div>
-<div id="outline-container-org5561288" class="outline-2">
-<h2 id="org5561288"><span class="todo TODO">TODO</span> 30. Structure, role and synthesis of cholesterol. Regulation. Excretion from the body.</h2>
-</div>
-<div id="outline-container-org12faad4" class="outline-2">
-<h2 id="org12faad4"><span class="todo TODO">TODO</span> 31. Derivatives of cholesterol (steroid hormones, vitamin D, bile acids) – structure and biological role. Enterohepatic circulation of bile acids. Rickets.</h2>
-</div>
-<div id="outline-container-org6f1cb3a" class="outline-2">
-<h2 id="org6f1cb3a"><span class="todo TODO">TODO</span> 32. Transport of lipids in organism. Types - composition, origin and functions of lipoprotein complexes. Role of proteins in lipoproteins. Formation, degradation and conversion of lipoproteins. Receptors for lipoproteins. Familiar hypercholesterolemia.</h2>
-</div>
-<div id="outline-container-orgf123a41" class="outline-2">
-<h2 id="orgf123a41"><span class="todo TODO">TODO</span> 33. Obesity. Role of leptin. Fatty liver. Atherosclerosis, tissue ischemia and myocardial infarction. Cholelithiasis.</h2>
-</div>
-<div id="outline-container-org541f7ae" class="outline-2">
-<h2 id="org541f7ae"><span class="todo TODO">TODO</span> 34. General reactions of amino acid catabolism: oxidative deamination, transamination, transdeamination. Clinical importance of aminotransferases. Decarboxylation of amino acids. Biological amines. Parkinson’s disease.</h2>
-</div>
-<div id="outline-container-org7d08a79" class="outline-2">
-<h2 id="org7d08a79"><span class="todo TODO">TODO</span> 35. Detoxification of ammonia. Synthesis of glutamate and glutamine. Urea cycle and ammoniagenesis. Links to citric acid cycle. Glucose-alanine cycle. Enzyme defects.</h2>
-</div>
-<div id="outline-container-orgbdc1850" class="outline-2">
-<h2 id="orgbdc1850"><span class="todo TODO">TODO</span> 36. Catabolism of the carbon skeletons of amino acids. Glycogenic and ketogenic amino acids. Еssential and nonessential amino acids.</h2>
-</div>
-<div id="outline-container-org2eb03ba" class="outline-2">
-<h2 id="org2eb03ba"><span class="todo TODO">TODO</span> 37. One-carbon units – types, sources, importance. Role of S-adenosyl-L-methionine and folate derivatives. Therapeutic application of folate analogs.</h2>
-</div>
-<div id="outline-container-orgdb6c976" class="outline-2">
-<h2 id="orgdb6c976"><span class="todo TODO">TODO</span> 38. Enzymopathies related to amino acids metabolism (phenylketonuria, alkaptonuria, methylmalonic aciduria). Conversion of amino acid to specialized products – NAD+, thyroid hormones, catecholamine hormones, melanins, creatine phosphate. Albinism. Parkinson’s disease.</h2>
-</div>
-<div id="outline-container-org02bb9cf" class="outline-2">
-<h2 id="org02bb9cf"><span class="todo TODO">TODO</span> 39. Biosynthesis and degradation of purine nucleotides. Regulatory enzymes in the biosynthesis. Purine analogs as antiviral agents. Hyperuricemia due to enzyme defects (gout, Lesch-Nyhan syndrome). Inhibition of xanthine oxidase.</h2>
-</div>
-<div id="outline-container-org7af62b2" class="outline-2">
-<h2 id="org7af62b2"><span class="todo TODO">TODO</span> 40. Biosynthesis and degradation of pyrimidine nucleotides. Regulatory enzymes in the biosynthesis. Allosteric modulation and orotic aciduria.</h2>
-</div>
-<div id="outline-container-orgf3d3759" class="outline-2">
-<h2 id="orgf3d3759"><span class="todo TODO">TODO</span> 41. Structure, role and biosynthesis of porphyrins. Types of porphyrias.</h2>
-</div>
-<div id="outline-container-orgbc11390" class="outline-2">
-<h2 id="orgbc11390"><span class="todo TODO">TODO</span> 42. Degradation of haemoglobin. Bile pigments. Enterohepatic cycle of bile pigments. Types of Jaundice.</h2>
-</div>
-<div id="outline-container-orge6e8310" class="outline-2">
-<h2 id="orge6e8310"><span class="todo TODO">TODO</span> 43. Integration of metabolism. Links between metabolic pathways of carbohydrates, lipids, amino acids and nucleotides. Role of common metabolites and key enzymes. Tissue and organ specificity. Adaptation in starvation.</h2>
-</div>
-<div id="outline-container-org094e247" class="outline-2">
-<h2 id="org094e247"><span class="todo TODO">TODO</span> 44. Biosynthesis of DNA – enzymes in prokaryotic and eukaryotic cell, steps. Mechanisms of repair. Drugs that affect replication. Role of tumor suppressor p53. Nonpolyposis colorectal cancer. Xeroderma pigmentosum.</h2>
-</div>
-<div id="outline-container-org79bff66" class="outline-2">
-<h2 id="org79bff66"><span class="todo TODO">TODO</span> 45. Biosynthesis of different types of RNA – enzymes, steps. Processing of RNA molecules. Inhibitors of RNA synthesis. Beta-thalassaemia. Fragile X-chromosome.</h2>
-</div>
-<div id="outline-container-org4b8f9a7" class="outline-2">
-<h2 id="org4b8f9a7"><span class="todo TODO">TODO</span> 46. Genetic code. Biosynthesis of proteins – steps and enzymes. Inhibitors of protein synthesis.</h2>
-</div>
-<div id="outline-container-org8b9f94b" class="outline-2">
-<h2 id="org8b9f94b"><span class="todo TODO">TODO</span> 47. Regulation of gene expression in prokaryotes (operon model) and in eukaryotes: at the level of DNA, at the level of transcription, at the level of translation and posttranslational regulation.</h2>
-</div>
-<div id="outline-container-org1e9e0ec" class="outline-2">
-<h2 id="org1e9e0ec"><span class="todo TODO">TODO</span> 48. Structure of the prokaryotic and eukaryotic genes.</h2>
-</div>
-<div id="outline-container-org4664a0e" class="outline-2">
-<h2 id="org4664a0e"><span class="todo TODO">TODO</span> 49. Recombinant DNA technologies. Recombination of DNA. Role of restriction endonucleases, reverse transcriptase and chemical methods. Identifying DNA sequences – electrophoresis, Southern blot. Amplification of DNA: cloning, polymerase chain reaction (PCR). Dideoxynucleotide method of Sanger for DNA sequencing. Next Generation Sequencing.</h2>
+<div id="outline-container-orgad9ef0a" class="outline-2">
+<h2 id="orgad9ef0a"><span class="todo TODO">TODO</span> 14. Oxidative phosphorylation at substrate level: oxidative phosphorylation of glyceraldehyde 3-phosphate, enolase reaction, oxidative decarboxylation of α-keto acids (pyruvate dehydrogenase complex, role of the cofactors TPP, lipoate, CoA, FAD and NAD+). Beri-beri.</h2>
 </div>
 
-<div id="outline-container-org2a84450" class="outline-2">
-<h2 id="org2a84450"><span class="todo TODO">TODO</span> 50. Application of recombinant DNA technologies in medicine. DNA polymorphisms. Detection of mutations by allele-specific probes and by PCR. Detection of a variable number of tandem repeats. Genetic counselling. Production of vaccines and therapeutic proteins. Gene therapy. Cases in forensic medicine. Transgenic animals. DNA chips in diagnostics.</h2>
+<div id="outline-container-orge562dba" class="outline-2">
+<h2 id="orge562dba"><span class="todo TODO">TODO</span> 15. Respiratory chain – localization, function and molecular structure. Sites for proton translocation. Coefficient of oxidative phosphorylation (P/O). Respiratory control, phosphate potential. Inhibitors of electron transfer: barbiturates, antimycin A, КCN. Dangerous combination of barbiturates and alcohol. Mitochondrial diseases.</h2>
 </div>
-<div id="outline-container-org53a8395" class="outline-2">
-<h2 id="org53a8395"><span class="todo TODO">TODO</span> 51. Integrated regulation of metabolism at organism level. Hormones - classification. Molecular mechanisms of steroid hormones.</h2>
+<div id="outline-container-org4e18467" class="outline-2">
+<h2 id="org4e18467"><span class="todo TODO">TODO</span> 16. Chemiosmotic theory for the mechanism of the oxidative phosphorylation in the respiratory chain. ATP synthase. Effect of uncouplers (2,4-dinitrophenol). Natural uncouplers. Inhibitors of oxidative phosphorylation (oligomycin).</h2>
 </div>
-<div id="outline-container-org6fc6ff8" class="outline-2">
-<h2 id="org6fc6ff8"><span class="todo TODO">TODO</span> 52. Peptide hormones, growth factors, cytokines. Receptors.</h2>
+<div id="outline-container-orgd6bf381" class="outline-2">
+<h2 id="orgd6bf381"><span class="todo TODO">TODO</span> 17. Uncoupled oxidation. Heat production. Role of thermogenin in mitochondria of brown adipose tissue. Electron transfer in the endoplasmic reticulum. Formation and detoxifying of reactive oxygen intermediates: superoxide, H2O2 and free hydroxyl radical.</h2>
 </div>
-<div id="outline-container-orgb565b4d" class="outline-2">
-<h2 id="orgb565b4d"><span class="todo TODO">TODO</span> 53. Transduction systems for peptide hormones, growth factors and cytokines. Second messengers: cAMP and protein kinase A; cGMP and nitric oxide.</h2>
+<div id="outline-container-org54dc366" class="outline-2">
+<h2 id="org54dc366"><span class="todo TODO">TODO</span> 18. Citric acid cycle – importance for catabolism and anabolism. Chemical reactions. Metabolic and energy balance. Mechanisms of regulation. Anaplerotic reactions. Pyruvate dehydrogenase deficiency.</h2>
 </div>
-<div id="outline-container-org832e006" class="outline-2">
-<h2 id="org832e006"><span class="todo TODO">TODO</span> 54. Transduction systems for peptide hormones, growth factors and cytokines. Lipid second messengers. Role of phosphatidylinositol bisphosphate, diacylglycerol, inositol triphosphate and protein kinase C.</h2>
+<div id="outline-container-org0f622eb" class="outline-2">
+<h2 id="org0f622eb"><span class="todo TODO">TODO</span> 19. Glycolysis – importance, chemical reactions, energy balance at anaerobic and aerobic conditions. Tissue specificity of glycolysis. Metabolic fate of NADH+H+, lactate and pyruvate. Relations between glycolysis and respiratory chains – shuttle mechanisms for transfer of hydrogen from the cytoplasm into mitochondria (malate and glycerophosphate shuttles). Pasteur effect. Links with the citric acid cycle. Lactic acidosis. Hemolytic anemia due to pyruvate kinase deficiency.</h2>
 </div>
-<div id="outline-container-org5d6b334" class="outline-2">
-<h2 id="org5d6b334"><span class="todo TODO">TODO</span> 55. Transduction systems for peptide hormones, growth factors and cytokines. Mitogen-activated protein kinase cascade - major mitogenic pathway.</h2>
+<div id="outline-container-org1c07b69" class="outline-2">
+<h2 id="org1c07b69"><span class="todo TODO">TODO</span> 20. Gluconeogenesis. Importance. Circumvention of the three irreversible steps in glycolysis. Regulation of gluconeogenesis. Fructose-1,6-bisphosphatase deficiency, hypoglycemia and prematurely born infants, hypoglycemia and alcohol intoxication.</h2>
 </div>
-<div id="outline-container-orgcc96e18" class="outline-2">
-<h2 id="orgcc96e18"><span class="todo TODO">TODO</span> 56. Transduction systems for peptide hormones, growth factors and cytokines. STAT transduction mechanism. Insulin transduction system.</h2>
+<div id="outline-container-org7f155a0" class="outline-2">
+<h2 id="org7f155a0"><span class="todo TODO">TODO</span> 21. The pentose phosphate pathway. Importance. Oxidative, isomerase and transferase reactions. Glucose- 6-phospate dehydrogenase deficiency.</h2>
 </div>
-<div id="outline-container-org6de7e5c" class="outline-2">
-<h2 id="org6de7e5c"><span class="todo TODO">TODO</span> 57. Diabetes mellitus – changes in metabolism in type I and type II diabetes. Diabetes type I as autoimmune disease. Mechanism of insulin action. Markers for diagnostics of Diabetes. Complications in type I and type II diabetes mellitus.</h2>
+<div id="outline-container-orgd3e84de" class="outline-2">
+<h2 id="orgd3e84de"><span class="todo TODO">TODO</span> 22. Metabolism of galactose, fructose and mannose. Galactosemia (type I and II). Essential fructosuria. Fructose intolerance.</h2>
 </div>
-<div id="outline-container-orgccd525c" class="outline-2">
-<h2 id="orgccd525c"><span class="todo TODO">TODO</span> 58. Molecular basis of intercellular interactions: recognition, adhesion, intercellular transfer, extracellular matrix. Clinical significance.</h2>
+<div id="outline-container-orgb23f405" class="outline-2">
+<h2 id="orgb23f405"><span class="todo TODO">TODO</span> 23. Glycogen – structure, hydrolytic and phosphorolitic degradation, synthesis. Regulation of glycogenolysis and glycogen synthesis. Glycogen storage diseases.</h2>
 </div>
-<div id="outline-container-org20802de" class="outline-2">
-<h2 id="org20802de"><span class="todo TODO">TODO</span> 59. Molecular mechanisms of cell cycle regulation. Disturbances.</h2>
+<div id="outline-container-org32710f1" class="outline-2">
+<h2 id="org32710f1"><span class="todo TODO">TODO</span> 24. Regulation of carbohydrate metabolism and blood glucose level. Role of different tissues and organs. The Cori cycle. Regulatory enzymes and hormones.</h2>
 </div>
-<div id="outline-container-orgadb4db9" class="outline-2">
-<h2 id="orgadb4db9"><span class="todo TODO">TODO</span> 60. Apoptosis - molecular mechanisms and biological role. Regulation and clinical significance of programmed cell death.</h2>
+<div id="outline-container-org18722b0" class="outline-2">
+<h2 id="org18722b0"><span class="todo TODO">TODO</span> 25. Lipids – classification. Oxidation of fatty acids with an even and odd number of carbon atoms. Energy balance. Enzyme deficiencies in the beta-oxidation.</h2>
 </div>
-<div id="outline-container-org6210452" class="outline-2">
-<h2 id="org6210452"><span class="todo TODO">TODO</span> 61. Molecular mechanisms of oncogenesis: protein kinases, growth factors, oncogenes and protooncogenes. Principles of the personalized medicine.</h2>
+<div id="outline-container-orgd506a8b" class="outline-2">
+<h2 id="orgd506a8b"><span class="todo TODO">TODO</span> 26. Biosynthesis of fatty acids. Acetyl-CoA carboxylase. Fatty acyl synthase – multifunctional enzyme. Regulation.</h2>
 </div>
-<div id="outline-container-orgae056c2" class="outline-2">
-<h2 id="orgae056c2"><span class="todo TODO">TODO</span> 62. Water-soluble vitamins. Metabolic role.</h2>
+<div id="outline-container-orgaac4eb2" class="outline-2">
+<h2 id="orgaac4eb2"><span class="todo TODO">TODO</span> 27. Desaturation of fatty acids. Deficit of essential fatty acids. Eicosanoids – major classes and biological role. Catabolism and biosynthesis of triacylglycerols. Hormone sensitive lipase. Metabolism of glycerol.</h2>
 </div>
-<div id="outline-container-org074bebc" class="outline-2">
-<h2 id="org074bebc"><span class="todo TODO">TODO</span> 63. Lipid-soluble vitamins. Metabolic role.</h2>
+<div id="outline-container-orgd158179" class="outline-2">
+<h2 id="orgd158179"><span class="todo TODO">TODO</span> 28. Metabolism (degradation and synthesis) of glycerophosphatides. Phospholipases A1, A2, C and D. Sphingolipids – types, structure and significance. Sphingolipidoses.</h2>
 </div>
-<div id="outline-container-org604c98c" class="outline-2">
-<h2 id="org604c98c"><span class="todo TODO">TODO</span> 64. Chemical composition and enzymes of the digestive fluids - saliva, gastric, pancreatic, and intestinal fluid. Degradation of food and uptake of the digested food.</h2>
+<div id="outline-container-org5e5c659" class="outline-2">
+<h2 id="org5e5c659"><span class="todo TODO">TODO</span> 29. Ketogenesis. Utilization and oxidation of ketone bodies in extrahepatic tissues. Ketonemia and ketonuria. Ketoacidosis in starvation and in Diabetes Mellitus.</h2>
 </div>
-<div id="outline-container-org25260ed" class="outline-2">
-<h2 id="org25260ed"><span class="todo TODO">TODO</span> 65. Biochemical processes in the liver. Role in degradation of Haemoglobin and formation of bile pigments. Disturbances in metabolism of bile pigments. Excretion of bile acids. Metabolism of iron. Inactivation and detoxification of xenobiotics. Ethanol metabolism.</h2>
+<div id="outline-container-orge35ae1c" class="outline-2">
+<h2 id="orge35ae1c"><span class="todo TODO">TODO</span> 30. Structure, role and synthesis of cholesterol. Regulation. Excretion from the body.</h2>
 </div>
-<div id="outline-container-org58ae199" class="outline-2">
-<h2 id="org58ae199"><span class="todo TODO">TODO</span> 66. Biochemical characteristics and metabolism of red and white blood cells. Hemoglobinopathies. Diagnostics. Structural similarities between a hemoglobin subunit and myoglobin, important for oxygen binding. Differences in the oxygen saturation curves of myoglobin and hemoglobin. Difference between HbA and HbF.</h2>
+<div id="outline-container-org8c365a8" class="outline-2">
+<h2 id="org8c365a8"><span class="todo TODO">TODO</span> 31. Derivatives of cholesterol (steroid hormones, vitamin D, bile acids) – structure and biological role. Enterohepatic circulation of bile acids. Rickets.</h2>
 </div>
-<div id="outline-container-orgf21cb77" class="outline-2">
-<h2 id="orgf21cb77"><span class="todo TODO">TODO</span> 67. Nerve tissue - metabolism and function. Molecular mechanisms of neurotransmission. Neuromediators. Regulation. Age-related changes, degenerative disturbances, opioid abuse, disturbances of cardiac rhythm.</h2>
+<div id="outline-container-org719aa74" class="outline-2">
+<h2 id="org719aa74"><span class="todo TODO">TODO</span> 32. Transport of lipids in organism. Types - composition, origin and functions of lipoprotein complexes. Role of proteins in lipoproteins. Formation, degradation and conversion of lipoproteins. Receptors for lipoproteins. Familiar hypercholesterolemia.</h2>
 </div>
-<div id="outline-container-orgbf8ad1c" class="outline-2">
-<h2 id="orgbf8ad1c"><span class="todo TODO">TODO</span> 68. Muscle tissue - metabolism and function. Molecular mechanisms of muscle contraction in skeletal, heart, smooth-muscle and myoepithelial cells. Muscular dystrophies.</h2>
+<div id="outline-container-org68cb280" class="outline-2">
+<h2 id="org68cb280"><span class="todo TODO">TODO</span> 33. Obesity. Role of leptin. Fatty liver. Atherosclerosis, tissue ischemia and myocardial infarction. Cholelithiasis.</h2>
+</div>
+<div id="outline-container-orgfec8422" class="outline-2">
+<h2 id="orgfec8422"><span class="todo TODO">TODO</span> 34. General reactions of amino acid catabolism: oxidative deamination, transamination, transdeamination. Clinical importance of aminotransferases. Decarboxylation of amino acids. Biological amines. Parkinson’s disease.</h2>
+</div>
+<div id="outline-container-org39eb08a" class="outline-2">
+<h2 id="org39eb08a"><span class="todo TODO">TODO</span> 35. Detoxification of ammonia. Synthesis of glutamate and glutamine. Urea cycle and ammoniagenesis. Links to citric acid cycle. Glucose-alanine cycle. Enzyme defects.</h2>
+</div>
+<div id="outline-container-orgd91d800" class="outline-2">
+<h2 id="orgd91d800"><span class="todo TODO">TODO</span> 36. Catabolism of the carbon skeletons of amino acids. Glycogenic and ketogenic amino acids. Еssential and nonessential amino acids.</h2>
+</div>
+<div id="outline-container-org2a88241" class="outline-2">
+<h2 id="org2a88241"><span class="todo TODO">TODO</span> 37. One-carbon units – types, sources, importance. Role of S-adenosyl-L-methionine and folate derivatives. Therapeutic application of folate analogs.</h2>
+</div>
+<div id="outline-container-org34fad37" class="outline-2">
+<h2 id="org34fad37"><span class="todo TODO">TODO</span> 38. Enzymopathies related to amino acids metabolism (phenylketonuria, alkaptonuria, methylmalonic aciduria). Conversion of amino acid to specialized products – NAD+, thyroid hormones, catecholamine hormones, melanins, creatine phosphate. Albinism. Parkinson’s disease.</h2>
+</div>
+<div id="outline-container-org3eb88b6" class="outline-2">
+<h2 id="org3eb88b6"><span class="todo TODO">TODO</span> 39. Biosynthesis and degradation of purine nucleotides. Regulatory enzymes in the biosynthesis. Purine analogs as antiviral agents. Hyperuricemia due to enzyme defects (gout, Lesch-Nyhan syndrome). Inhibition of xanthine oxidase.</h2>
+</div>
+<div id="outline-container-orgfa86ee8" class="outline-2">
+<h2 id="orgfa86ee8"><span class="todo TODO">TODO</span> 40. Biosynthesis and degradation of pyrimidine nucleotides. Regulatory enzymes in the biosynthesis. Allosteric modulation and orotic aciduria.</h2>
+</div>
+<div id="outline-container-org6f3a69f" class="outline-2">
+<h2 id="org6f3a69f"><span class="todo TODO">TODO</span> 41. Structure, role and biosynthesis of porphyrins. Types of porphyrias.</h2>
+</div>
+<div id="outline-container-orgf4043e9" class="outline-2">
+<h2 id="orgf4043e9"><span class="todo TODO">TODO</span> 42. Degradation of haemoglobin. Bile pigments. Enterohepatic cycle of bile pigments. Types of Jaundice.</h2>
+</div>
+<div id="outline-container-org836b1e9" class="outline-2">
+<h2 id="org836b1e9"><span class="todo TODO">TODO</span> 43. Integration of metabolism. Links between metabolic pathways of carbohydrates, lipids, amino acids and nucleotides. Role of common metabolites and key enzymes. Tissue and organ specificity. Adaptation in starvation.</h2>
+</div>
+<div id="outline-container-org64c3de6" class="outline-2">
+<h2 id="org64c3de6"><span class="todo TODO">TODO</span> 44. Biosynthesis of DNA – enzymes in prokaryotic and eukaryotic cell, steps. Mechanisms of repair. Drugs that affect replication. Role of tumor suppressor p53. Nonpolyposis colorectal cancer. Xeroderma pigmentosum.</h2>
+</div>
+<div id="outline-container-orgfd29ddf" class="outline-2">
+<h2 id="orgfd29ddf"><span class="todo TODO">TODO</span> 45. Biosynthesis of different types of RNA – enzymes, steps. Processing of RNA molecules. Inhibitors of RNA synthesis. Beta-thalassaemia. Fragile X-chromosome.</h2>
+</div>
+<div id="outline-container-orgf2b4380" class="outline-2">
+<h2 id="orgf2b4380"><span class="todo TODO">TODO</span> 46. Genetic code. Biosynthesis of proteins – steps and enzymes. Inhibitors of protein synthesis.</h2>
+</div>
+<div id="outline-container-orgf9de32d" class="outline-2">
+<h2 id="orgf9de32d"><span class="todo TODO">TODO</span> 47. Regulation of gene expression in prokaryotes (operon model) and in eukaryotes: at the level of DNA, at the level of transcription, at the level of translation and posttranslational regulation.</h2>
+</div>
+<div id="outline-container-org02614a4" class="outline-2">
+<h2 id="org02614a4"><span class="todo TODO">TODO</span> 48. Structure of the prokaryotic and eukaryotic genes.</h2>
+</div>
+<div id="outline-container-org6c752de" class="outline-2">
+<h2 id="org6c752de"><span class="todo TODO">TODO</span> 49. Recombinant DNA technologies. Recombination of DNA. Role of restriction endonucleases, reverse transcriptase and chemical methods. Identifying DNA sequences – electrophoresis, Southern blot. Amplification of DNA: cloning, polymerase chain reaction (PCR). Dideoxynucleotide method of Sanger for DNA sequencing. Next Generation Sequencing.</h2>
 </div>
 
-<div id="outline-container-org534de56" class="outline-2">
-<h2 id="org534de56"><span class="todo TODO">TODO</span> 69. Biochemical processes in epithelial and connective tissue. Elastins. Collagens. Main substance - heteropolysacharides. Defects.</h2>
+<div id="outline-container-orgcc6a2c6" class="outline-2">
+<h2 id="orgcc6a2c6"><span class="todo TODO">TODO</span> 50. Application of recombinant DNA technologies in medicine. DNA polymorphisms. Detection of mutations by allele-specific probes and by PCR. Detection of a variable number of tandem repeats. Genetic counselling. Production of vaccines and therapeutic proteins. Gene therapy. Cases in forensic medicine. Transgenic animals. DNA chips in diagnostics.</h2>
 </div>
-<div id="outline-container-org9e93ea2" class="outline-2">
-<h2 id="org9e93ea2"><span class="todo TODO">TODO</span> 70. Metabolism of calcium and phosphorus. Regulation. Bone formation. Osteoporosis and hormone replacement therapy.</h2>
+<div id="outline-container-org9cb0495" class="outline-2">
+<h2 id="org9cb0495"><span class="todo TODO">TODO</span> 51. Integrated regulation of metabolism at organism level. Hormones - classification. Molecular mechanisms of steroid hormones.</h2>
+</div>
+<div id="outline-container-org7392015" class="outline-2">
+<h2 id="org7392015"><span class="todo TODO">TODO</span> 52. Peptide hormones, growth factors, cytokines. Receptors.</h2>
+</div>
+<div id="outline-container-org12b72ad" class="outline-2">
+<h2 id="org12b72ad"><span class="todo TODO">TODO</span> 53. Transduction systems for peptide hormones, growth factors and cytokines. Second messengers: cAMP and protein kinase A; cGMP and nitric oxide.</h2>
+</div>
+<div id="outline-container-org6575f13" class="outline-2">
+<h2 id="org6575f13"><span class="todo TODO">TODO</span> 54. Transduction systems for peptide hormones, growth factors and cytokines. Lipid second messengers. Role of phosphatidylinositol bisphosphate, diacylglycerol, inositol triphosphate and protein kinase C.</h2>
+</div>
+<div id="outline-container-org0aecb6b" class="outline-2">
+<h2 id="org0aecb6b"><span class="todo TODO">TODO</span> 55. Transduction systems for peptide hormones, growth factors and cytokines. Mitogen-activated protein kinase cascade - major mitogenic pathway.</h2>
+</div>
+<div id="outline-container-orge6ceea9" class="outline-2">
+<h2 id="orge6ceea9"><span class="todo TODO">TODO</span> 56. Transduction systems for peptide hormones, growth factors and cytokines. STAT transduction mechanism. Insulin transduction system.</h2>
+</div>
+<div id="outline-container-org2fa53c3" class="outline-2">
+<h2 id="org2fa53c3"><span class="todo TODO">TODO</span> 57. Diabetes mellitus – changes in metabolism in type I and type II diabetes. Diabetes type I as autoimmune disease. Mechanism of insulin action. Markers for diagnostics of Diabetes. Complications in type I and type II diabetes mellitus.</h2>
+</div>
+<div id="outline-container-org2a7ca5f" class="outline-2">
+<h2 id="org2a7ca5f"><span class="todo TODO">TODO</span> 58. Molecular basis of intercellular interactions: recognition, adhesion, intercellular transfer, extracellular matrix. Clinical significance.</h2>
+</div>
+<div id="outline-container-org822a0f6" class="outline-2">
+<h2 id="org822a0f6"><span class="todo TODO">TODO</span> 59. Molecular mechanisms of cell cycle regulation. Disturbances.</h2>
+</div>
+<div id="outline-container-orge682ff6" class="outline-2">
+<h2 id="orge682ff6"><span class="todo TODO">TODO</span> 60. Apoptosis - molecular mechanisms and biological role. Regulation and clinical significance of programmed cell death.</h2>
+</div>
+<div id="outline-container-org825620e" class="outline-2">
+<h2 id="org825620e"><span class="todo TODO">TODO</span> 61. Molecular mechanisms of oncogenesis: protein kinases, growth factors, oncogenes and protooncogenes. Principles of the personalized medicine.</h2>
+</div>
+<div id="outline-container-orgb8b9c60" class="outline-2">
+<h2 id="orgb8b9c60"><span class="todo TODO">TODO</span> 62. Water-soluble vitamins. Metabolic role.</h2>
+</div>
+<div id="outline-container-org08a3176" class="outline-2">
+<h2 id="org08a3176"><span class="todo TODO">TODO</span> 63. Lipid-soluble vitamins. Metabolic role.</h2>
+</div>
+<div id="outline-container-org191b3cc" class="outline-2">
+<h2 id="org191b3cc"><span class="todo TODO">TODO</span> 64. Chemical composition and enzymes of the digestive fluids - saliva, gastric, pancreatic, and intestinal fluid. Degradation of food and uptake of the digested food.</h2>
+</div>
+<div id="outline-container-orgb280b08" class="outline-2">
+<h2 id="orgb280b08"><span class="todo TODO">TODO</span> 65. Biochemical processes in the liver. Role in degradation of Haemoglobin and formation of bile pigments. Disturbances in metabolism of bile pigments. Excretion of bile acids. Metabolism of iron. Inactivation and detoxification of xenobiotics. Ethanol metabolism.</h2>
+</div>
+<div id="outline-container-orgda70f0e" class="outline-2">
+<h2 id="orgda70f0e"><span class="todo TODO">TODO</span> 66. Biochemical characteristics and metabolism of red and white blood cells. Hemoglobinopathies. Diagnostics. Structural similarities between a hemoglobin subunit and myoglobin, important for oxygen binding. Differences in the oxygen saturation curves of myoglobin and hemoglobin. Difference between HbA and HbF.</h2>
+</div>
+<div id="outline-container-orgd8d56c8" class="outline-2">
+<h2 id="orgd8d56c8"><span class="todo TODO">TODO</span> 67. Nerve tissue - metabolism and function. Molecular mechanisms of neurotransmission. Neuromediators. Regulation. Age-related changes, degenerative disturbances, opioid abuse, disturbances of cardiac rhythm.</h2>
+</div>
+<div id="outline-container-orgc1386a7" class="outline-2">
+<h2 id="orgc1386a7"><span class="todo TODO">TODO</span> 68. Muscle tissue - metabolism and function. Molecular mechanisms of muscle contraction in skeletal, heart, smooth-muscle and myoepithelial cells. Muscular dystrophies.</h2>
+</div>
+
+<div id="outline-container-orgc543811" class="outline-2">
+<h2 id="orgc543811"><span class="todo TODO">TODO</span> 69. Biochemical processes in epithelial and connective tissue. Elastins. Collagens. Main substance - heteropolysacharides. Defects.</h2>
+</div>
+<div id="outline-container-org727250c" class="outline-2">
+<h2 id="org727250c"><span class="todo TODO">TODO</span> 70. Metabolism of calcium and phosphorus. Regulation. Bone formation. Osteoporosis and hormone replacement therapy.</h2>
 </div>
 </div>
 <div id="postamble" class="status">
