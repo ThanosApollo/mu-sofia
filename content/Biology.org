@@ -736,13 +736,19 @@
 * TODO 76. Human evolution.
 * TODO 77. Molecular evolution.
 * 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
+** Protozoa
++ Informal term for a group of unicellular eukaryotes, /they are free-living or parasitic/
++ Replication through /binary fission/
 ** Phylum Sarcomastigophora
 + Phylum Sarcomastigophora is a group of unicellular eukaryotic organisms that are classified based on their method of movement.
 + They include various species of protozoa that move using pseudopodia (temporary extensions of the cell membrane), flagella (long, whip-like appendages), or both.
++ Includes
+  + sub-phylum Mastigophora -- Characterized by presence of several flagella
+  + sub-phylum Sarcodina -- Characterized by presence of pseudopodia
 ** Trypanosoma brucei
 + Causes African trypanosomiasis(Sleeping sickness)
 + Trypanosoma brucei is a hemoflagellate protozoan(flagellated/trypomastigote in the blood, amastigote in tissue)
-+ Vector transmission by bite of *tsetse fly*
++ Vector of transmission by bite of *tsetse fly*
 + Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly.
   + Responsible for over 95% of reported cases of African trypanosomiasis
 + Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, which progresses rapidly (less common)
@@ -754,7 +760,7 @@
     + Fever, headache and joint pain
   + Stage II - Meningoencephalitic :
     + /Occurs when the parasite has crossed the blood-brain barrier/
-    + Severe neutological symptoms /such as tremors and difficulty walking/
+    + Severe neurological symptoms /such as tremors and difficulty walking/
     + Insomnia
     + *Coma*
     + Death
@@ -771,6 +777,10 @@
 + Vector transmission by **reduviid** bug(kissing bug, bites around the mouth or eyes usually)
   + T.cruzi is shed in the feces of the reduviid bug; feces is then rubbed into the bite site while scratching
 + *Endemic to Central and South America*
++ Life Cycle:
+  + Epimastigote stage: Trypanosoma cruzi begins its life cycle as an epimastigote in the gut of an insect vector, typically a kissing bug. The epimastigotes multiply by binary fission in the gut and transform into metacyclic trypomastigotes, which are infective to mammals.
+  + Trypomastigote stage: The insect vector feeds on a mammalian host and defecates near the bite wound, releasing the metacyclic trypomastigotes into the host's bloodstream. The trypomastigotes can also enter the host's body through mucous membranes or breaks in the skin. Once inside the host, the trypomastigotes invade host cells and replicate by binary fission. They can also transform into amastigotes, which are small, intracellular forms of the parasite.
+  + Amastigote stage: The amastigotes multiply within host cells and can cause tissue damage and inflammation. Eventually, the infected host cells rupture, releasing more trypomastigotes into the bloodstream. These trypomastigotes can then infect new host cells or be ingested by another insect vector, continuing the life cycle.  
 + Clinical features :
   + Incubation period 1-2 weeks
   + Acute phase
@@ -796,8 +806,10 @@
 * 79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.
 + Blood protozoan
 + Vector **transmission by sandfly**
-+ Promastigote(flagellated) form in vector(sandly)|Amastigote(non-flagellated) form inside host macrophages
-  + Numerous amastigote nuclei can be seen in the cytoplasm of macrophages on microscopy
++ 2 forms:
+  + Promastigote(flagellated) form in vector(sandly)
+  + Amastigote(non-flagellated) form inside host macrophages
+    + Numerous amastigote nuclei can be seen in the cytoplasm of macrophages on microscopy
 *** Leishmania braziliensis & Leishmania Tropica
 + Leishmania braziliensis : Found in south America(Brazil)
 + Leishmania tropica: Asia, the Middle east and Africa
@@ -806,10 +818,11 @@
 + Local treatment with cryotherapy OR paromomycin
 *** Leishmania donovani
 + Causes Visceral leishmaniasis(kalazar, black fever)
-+ Spiking fever
-  - Intermitten fever with spiking pattern(temp rises rapidly and tehn falling just as quickly)
-+ Affects the bone marrow, leading to pancytopenia
-+ hepatosplenomegaly
++ parasite migrates to the internal organs and bone marrow causing:  
+  + Spiking fever
+    + Intermitten fever with spiking pattern(temp rises rapidly and tehn falling just as quickly)    
+  + Affects the bone marrow, leading to pancytopenia
+  + hepatosplenomegaly
 + Treatment :
   + Amphotericin B
 
@@ -820,7 +833,7 @@
 + Sexual transmission
 + Clinical features :
     + Foul-smelling, yellow-green purulent discharge
-    + Vulvovaginal pruritus, burning sensation, stawberry cervix
+    + Vulvovaginal pruritus, burning sensation, strawberry cervix
     + Usually asymptomatic in men
 + Diagnostics :
     + Saline wet mount of vaginal smear : motile trophozoites with multiple flagella
@@ -828,8 +841,9 @@
 + Treatment :
     + Oral metronidazole
 *** Trichonomonas tenax
++ Trichomonas tenax is a single-celled parasitic protozoan that is commonly found in the oral cavity of humans
 + Anaerobic, motile protozoan with flagella
-+ Found in oral cavity, causes gingivostomatitis, but commony asymptomatic
++ Found in oral cavity, associated with gingivostomatitis and poor oral hygiene, but commony asymptomatic
 *** Giardia Lamblia
 + Anaerobic flagellated protozoan in the small intestine
 + Fecal-oral transmission
